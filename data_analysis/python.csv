@@ -1,0 +1,43 @@
+date,title,site_id,company,technology_stack,salary_margin,salary,required_experience
+2023-12-22,Senior Python Developer,/jobs/5464012/,VOL company,"['Java', 'Python', 'SQL', 'HTML', 'Django', 'CSS', 'FastAPI', 'API']","[24000, 30000]",27000.0,5
+2023-12-14,Python developer,/jobs/5302747/,Appexoft,"['Python', 'SQL', 'Django', 'GIT', 'WEB']",Unknown,,1
+2023-12-19,"Middle Developer (PHP, JS, Java, C/C++, C#, Ruby, Python)",/jobs/5350335/,LuckyWare Pro,"['PHP', 'Java', 'JS', 'Python', 'C++', 'Ruby', 'C#']",Unknown,,2
+2023-12-27,Junior Python Developer,/jobs/5466723/,Solidway,['Python'],As interview result,,0
+2024-01-08,"Intern/trainee analytic programmer (DAX, M, VBA, SAS, R, Python)",/jobs/5184790/,Business Research Group,['Python'],As interview result,,0
+2024-01-05,Python Backend Developer,/jobs/5463316/,"Trendline, LLC","['Python', 'SQL', 'Docker', 'Django', 'API']",As interview result,,2
+2024-01-05,"Junior Python AQA, Developer in Test",/jobs/5456736/,Ajax Systems,"['Python', 'SQL', 'Docker', 'GIT', 'CI/CD']",Unknown,,0
+2023-12-21,Python-розробник,/jobs/5463142/,"Кодісофт, ТОВ","['JS', 'Python']",[37000],37000.0,1
+2024-01-07,Викладач у дитячу ІТ-школу програмування (Python) у Сокаль,/jobs/4563892/,"Logika, мiжнародна школа програмування для дiтей",['Python'],"[5000, 8000]",6500.0,0
+2024-01-09,Senior Python Developer,/jobs/5452563/,EVA.tech,"['Python', 'SQL', 'Django', 'WEB', 'Redis']",Unknown,,2
+2024-01-02,"PHP, Python Web Developer",/jobs/3974036/,Soaring Venture Corp.,"['PHP', 'Java', 'Python', 'SQL', 'HTML', 'CSS', 'WEB', 'API']","[42000, 46000]",44000.0,5
+2023-12-12,Python-программист,/jobs/5452246/,Onlihub,"['Python', 'SQL', 'Docker', 'Pandas', 'FastAPI', 'GIT', 'API', 'Redis']","[50000, 80000]",65000.0,2
+2024-01-04,"Викладач, ментор курсу Python",/jobs/4799664/,CyberBionic Systematics,"['Python', 'SQL', 'Django', 'GIT', 'WEB']",Unknown,,2
+2024-01-10,LLM Specialist with Python Knowledge,/jobs/5482855/,Chatmasters AI,"['Python', 'Docker', 'FastAPI', 'API']",Unknown,,1
+2024-01-06,Викладач у дитячу школу програмування (Python),/jobs/5457298/,"Logika, мiжнародна школа програмування для дiтей",['Python'],"[5000, 8000]",6500.0,0
+2024-01-02,Middle Python Developer,/jobs/5437236/,KeyUa,"['JS', 'Python', 'Docker', 'English', 'HTML', 'Django', 'Flask', 'CSS', 'WEB', 'API']",Unknown,,2
+2024-01-07,"Викладач у дитячу IT-школу програмування (Scratch, Python)",/jobs/5476873/,"Logika, мiжнародна школа програмування для дiтей","['Java', 'Python', 'HTML', 'CSS']","[3000, 6000]",4500.0,0
+2023-12-18,Викладач Python в школу програмування (онлайн),/jobs/4983344/,IT Future,['Python'],"[8000, 18000]",13000.0,1
+2023-12-26,"Викладач у дитячу IT-школу програмування (Scratch, Python, Frontend)",/jobs/5466238/,"Logika, мiжнародна школа програмування для дiтей","['Java', 'Python', 'HTML', 'CSS']",[10000],10000.0,0
+2024-01-09,Middle Python Developer,/jobs/4821099/,"Comparus UA (Компарус.ЮА, ТОВ)","['Python', 'Docker', 'English', 'WEB', 'API', 'Redis']",Unknown,,2
+2024-01-08,Python Developer (Computer Vision),/jobs/5349371/,"Фора, ТОВ","['Python', 'SQL']",Unknown,,1
+2024-01-04,Python developer (senior or lead),/jobs/5335966/,Piche Ltd,"['Python', 'Django', 'Flask', 'WEB', 'CI/CD']","[120000, 160000]",140000.0,5
+2023-12-21,IT-спеціаліст (Python),/jobs/5463089/,DigitalBoost,"['JS', 'Python']",[36000],36000.0,1
+2023-12-26,Викладач мови Python,/jobs/5465833/,IT Step Academy,['Python'],As interview result,,1
+2023-12-29,Fullstack Python/React Developer,/jobs/5017342/,Elementica,"['Java', 'JS', 'Python', 'SQL', 'Docker', 'English', 'Django', 'Flask', 'CSS', 'FastAPI', 'WEB', 'API', 'CI/CD']","[60000, 150000]",105000.0,2
+2024-01-04,"Викладач з комп'ютерної дисципліни (Python, Java)",/jobs/5473335/,Одесский корпоративный компьютерный колледж,[],"[16000, 16800]",16400.0,0
+2024-01-04,Python/C# Developer for Revit Plugin Development,/jobs/5454601/,RD Studio,"['Python', 'C#', 'English', 'GIT', 'API']","[20000, 50000]",35000.0,2
+2023-12-26,"Викладач у дитячу IT-школу програмування (Scratch, Python, Frontend)",/jobs/5466244/,"Logika, мiжнародна школа програмування для дiтей","['Java', 'Python', 'HTML', 'CSS']",[10000],10000.0,0
+2023-12-19,"Викладач Python в IT-школу (Django, Git, Docker)",/jobs/5460411/,"Logika, мiжнародна школа програмування для дiтей","['Python', 'Docker', 'Django', 'FastAPI', 'GIT', 'API']","[10000, 15000]",12500.0,1
+2024-01-05,Data Aggregation Specialist (Python),/jobs/5456073/,Jooble,"['Python', 'SQL', 'HTML', 'GIT', 'WEB', 'API']",Unknown,,1
+2024-01-10,Python developer (Middle/Senior),/jobs/5482955/,OGD Solutions,"['Python', 'SQL', 'Docker', 'English', 'Django', 'Flask', 'GIT', 'CI/CD', 'Redis']","[70000, 110000]",90000.0,2
+2023-12-14,Викладач з Python Minecraft в школу програмування (онлайн),/jobs/5353005/,IT Future,['Python'],"[12000, 24000]",18000.0,1
+2023-12-19,"Викладач програмування у IT-школу (Scratch, Python)",/jobs/5460443/,"Logika, мiжнародна школа програмування для дiтей",['Python'],"[8000, 12000]",10000.0,0
+2023-12-14,"Програміст (PHP, Python) зі знанням англійської",/jobs/5455924/,Sitesecurity,"['PHP', 'Python']","[11000, 32000]",21500.0,0
+2024-01-05,"Junior, Middle Python developer in test",/jobs/5456219/,Ajax Systems,"['Python', 'GIT', 'API']",Unknown,,1
+2024-01-03,Full Stack Developer (Python),/jobs/4428355/,Dinamicka Development,"['Java', 'Python', 'SQL', 'Docker', 'HTML', 'Django', 'CSS', 'API']",As interview result,,5
+2023-12-26,"Викладач у дитячу IT-школу програмування (Scratch, Python, Frontend)",/jobs/5466252/,"Logika, мiжнародна школа програмування для дiтей","['Java', 'Python', 'HTML', 'CSS']",[10000],10000.0,0
+2024-01-07,"Викладач у ІТ-школу програмування (Python, Scratch) в Яворів",/jobs/4673625/,"Logika, мiжнародна школа програмування для дiтей",['Python'],"[5000, 7000]",6000.0,0
+2024-01-08,"Програміст (Python, Django)",/jobs/5404331/,Finbert,"['Python', 'Django']","[60000, 90000]",75000.0,5
+2024-01-09,Python developer на платформі Odoo,/jobs/5444663/,Aurelis Software,"['Java', 'Python', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-10,"Викладач у дитячу IT-школу програмування (Scratch, Python, Frontend)",/jobs/5481267/,"Logika, мiжнародна школа програмування для дiтей","['Java', 'Python', 'HTML', 'CSS']",[10000],10000.0,0
+2024-01-04,"Python Developer, Mentor",/jobs/5301777/,FoxmindEd,"['Java', 'Python', 'SQL', 'Docker', 'HTML', 'Django', 'Flask', 'CSS', 'GIT']",As interview result,,2

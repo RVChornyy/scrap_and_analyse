@@ -1,0 +1,659 @@
+date,title,site_id,company,technology_stack,salary_margin,salary,required_experience
+2024-01-02,"PHP, Python Web Developer",/jobs/3974036/,Soaring Venture Corp.,"['PHP', 'Java', 'Python', 'SQL', 'HTML', 'CSS', 'WEB', 'API']","[42000, 46000]",44000.0,5
+2024-01-02,Програміст PHP Developer (автозапчастини),/jobs/5471074/,ULC,"['PHP', 'Java', 'SQL', 'HTML', 'CSS']",[40000],40000.0,1
+2023-12-27,WordPress Designer Elementor Developer,/jobs/5457136/,Busyness Launch,"['English', 'HTML', 'CSS', 'WEB']","[8000, 20000]",14000.0,2
+2024-01-05,Front-end програміст,/jobs/5359282/,Vis0,"['Java', 'English', 'WEB']","[15000, 45000]",30000.0,1
+2023-12-27,Front-end developer,/jobs/5380421/,Skalar,"['Java', 'JS', 'Docker', 'HTML', 'CSS', 'GIT', 'API', 'CI/CD', 'NodeJS']","[34000, 45000]",39500.0,2
+2024-01-08,.Net-програміст,/jobs/5451306/,Kenner Soft Service GmbH,"['SQL', 'C#']",Unknown,,2
+2024-01-08,"Програміст 1C, BAS",/jobs/5419883/,"ВСТ-Ойл, ТОВ","['SQL', '1С', 'WEB', 'API']",As interview result,,1
+2023-12-20,Інженер-програміст верстатів з програмним керуванням,/jobs/5461121/,"Екватор, завод, АТ",[],[15000],15000.0,5
+2024-01-09,Інженер-програміст АСУ ТП (Junior),/jobs/5480972/,Пролайт Аутомейшн,"['JS', 'SQL', 'C#', 'WEB']",As interview result,,1
+2023-12-27,"Full stack програміст (PHP, JS)",/jobs/5417549/,We.ua,"['PHP', 'Java', 'JS', 'SQL', 'Ruby', 'HTML', 'CSS', 'GIT', 'API', 'Redis']","[30000, 50000]",40000.0,1
+2023-12-11,"Business Analyst, Corezoid, Node-red Developer",/jobs/5450971/,Vandal Vape,['Java'],"[35000, 70000]",52500.0,1
+2023-12-14,WordPress-розробник,/jobs/5342183/,Оссистем,"['PHP', 'Java', 'HTML', 'CSS']",Unknown,,2
+2023-12-21,Программист Golang,/jobs/5462618/,The Unit,"['SQL', 'Docker', 'GIT', 'API']",Unknown,,5
+2023-12-31,"Програміст PHP, Yii2, Vue",/jobs/5469395/,"Всеосвіта, ТОВ","['PHP', 'JS', 'SQL', 'SEO', 'Redis']",As interview result,,2
+2024-01-04,PHP Developer,/jobs/4394695/,Kenner Soft Service GmbH,"['PHP', 'Java', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'Redis']",Unknown,,1
+2024-01-08,Програміст 1C,/jobs/5274161/,Юнiк Трейд,['1С'],Unknown,,5
+2023-12-27,"Web developer (WordPress, OpenCart)",/jobs/5467070/,ItSites,"['PHP', 'SQL', 'HTML', 'CSS', 'WEB']","[15000, 30000]",22500.0,2
+2023-12-14,Shopify Developer,/jobs/4920020/,"Split Development, LLC","['Java', 'JS', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'SEO']",Unknown,,1
+2024-01-10,Програміст 1C,/jobs/5126811/,TAV,"['SQL', '1С']","[35000, 50000]",42500.0,2
+2024-01-04,"Інженер-програміст (BAS, 1С)",/jobs/5462748/,Кондитерська Корпорація ROSHEN,"['JS', '1С', 'WEB']",[120000],120000.0,2
+2024-01-10,Corezoid developer,/jobs/5471523/,EVA.tech,"['Java', 'SQL', 'WEB', 'API']",Unknown,,2
+2023-12-22,Junior+/Middle Flutter Developer,/jobs/5463584/,Давай займемось текстом,[],"[37000, 45000]",41000.0,1
+2023-12-18,"Особистий помічник для програміста, Researcher, Sourcer",/jobs/5459227/,"Конончук Б.Ю., ФОП",[],As interview result,,0
+2023-12-18,Front-end програміст,/jobs/5458164/,IndagoDev,"['JS', 'HTML', 'CSS', 'GIT', 'WEB']","[33000, 38000]",35500.0,2
+2023-12-11,"Програміст PHP, Backend Developer",/jobs/5020034/,Maxopen,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'API']","[25000, 35000]",30000.0,0
+2023-12-14,"Trainee, Junior Wordpress Developer",/jobs/3902352/,Appexoft,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'WEB', 'API']",Unknown,,0
+2024-01-02,Linux C Developer,/jobs/5470007/,IT Recruitment Solutions (ITRS.ua) ®,['English'],"[162000, 180000]",171000.0,2
+2024-01-08,"Інженер-електронік, розробник",/jobs/5404470/,РКС,[],As interview result,,2
+2024-01-09,Backend Developer (Golang),/jobs/5215217/,American Technologies Network (ATN),"['Java', 'JS', 'SQL', 'Docker', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'Redis']",As interview result,,2
+2024-01-02,Web-розробник (Shopify),/jobs/5470627/,Ace Marks,"['Java', 'HTML', 'CSS', 'WEB', 'SEO']","[40000, 60000]",50000.0,2
+2024-01-07,"Middle+ програміст PHP (Laravel, ReactJS)",/jobs/5223323/,"Профдрайв, ООО","['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'WEB']",[37000],37000.0,1
+2023-12-20,PHP Developer (Wordpress),/jobs/2373329/,Plugiton,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT']",Unknown,,2
+2023-12-20,Програміст Golang,/jobs/5461981/,VIP Design,"['SQL', 'Docker', 'GIT', 'CI/CD']",As interview result,,2
+2023-12-25,"Back end developer (Twitch, Kick, Youtube API integration for chat)",/jobs/5465266/,"Гоголь Е.О., ФЛП","['JS', 'Python', 'API']",Unknown,,2
+2024-01-08,Програміст 1C,/jobs/5327807/,ProSteer Group,"['1С', 'WEB', 'API']",Unknown,,2
+2024-01-08,Програміст PHP,/jobs/5479100/,Korovo,[],As interview result,,1
+2024-01-04,Unity Hypercasual Game Developer,/jobs/4464568/,Mobi Screen Apps,['C#'],As interview result,,1
+2024-01-10,Middle Unity game developer,/jobs/5482344/,24Play,['C#'],Unknown,,2
+2024-01-09,Full-stack програміст (Strong Junior),/jobs/5055123/,Аптека АНЦ,"['Java', 'Python', 'SQL', 'Django']",[29000],29000.0,2
+2024-01-08,BI developer,/jobs/5033926/,Dnipro-M,"['SQL', 'ETL']",Unknown,,2
+2023-12-26,Middle Web Developer (WordPress),/jobs/5465610/,IM4U Digital Marketing Agency,"['PHP', 'Java', 'HTML', 'CSS', 'GIT', 'WEB']",Unknown,,2
+2024-01-06,Middle Full Stack Developer,/jobs/5451362/,NextDay Company,[],"[15000, 40000]",27500.0,2
+2024-01-09,"Full-stack Developer (Laravel, React)",/jobs/5480478/,Rezet,"['PHP', 'SQL', 'Docker', 'API', 'Redis']",Unknown,,2
+2023-12-11,Middle/Senior WordPress Developer,/jobs/4565507/,Impax agency,"['PHP', 'Java', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-10,Magento developer (Middle/Senior),/jobs/5482827/,OGD Solutions,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT']","[70000, 110000]",90000.0,2
+2024-01-02,Back-end Developer (PHP),/jobs/5435391/,Perspective,"['PHP', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,1
+2023-12-27,PHP-розробник,/jobs/5385443/,Work.ua,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'GIT', 'API', 'NodeJS', 'Redis']",Unknown,,2
+2024-01-08,Програміст 1C,/jobs/5477725/,"Діла, медична лабораторія",['1С'],Unknown,,2
+2024-01-06,"Инженер электроники, электромеханики, конструктор, программист, исследователь",/jobs/4618763/,Углерод-Украина,[],Unknown,,1
+2023-12-18,"Middle, Strong Junior OpenCart Developer",/jobs/5458703/,Slan,"['Java', 'HTML', 'CSS', 'GIT']","[30000, 40000]",35000.0,2
+2024-01-10,Разработчик LinkedIn Design,/jobs/5482967/,"NEO Engineering, GmbH",[],As interview result,,5
+2024-01-05,Oracle developer,/jobs/5367602/,ТАС,"['SQL', 'GIT']",Unknown,,2
+2024-01-04,PHP/Fullstack developer,/jobs/5474208/,Inforotor,"['PHP', 'Java', 'SQL', 'GIT', 'API']","[80000, 100000]",90000.0,2
+2023-12-27,"Програміст, розробник типових рішень BAS",/jobs/3607331/,Спілка Автоматизаторів Бізнесу,[],Unknown,,2
+2024-01-10,Delphi developer,/jobs/5258331/,"БаДМ, ТОВ",['SQL'],Unknown,,1
+2024-01-02,"Middle Full-Stack Developer (PHP, MySQL, PDL UA)",/jobs/5470097/,"ФК Просто Кредит, ТОВ","['PHP', 'Java', 'SQL', 'HTML', '1С', 'API']","[30000, 45000]",37500.0,1
+2024-01-02,Trainee/Junior Front-end React.js developer,/jobs/4767569/,Expletech,"['Java', 'JS', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,0
+2024-01-09,Програміст 1С,/jobs/5337311/,Приват-Алко,"['JS', 'SQL', '1С']","[35000, 45000]",40000.0,2
+2023-12-18,Программист WordPress,/jobs/5458502/,Exit Technologies,"['PHP', 'JS', 'HTML', 'CSS', 'API']","[15000, 18000]",16500.0,5
+2023-12-18,C# Developer,/jobs/5458754/,Profit Center FX,"['SQL', 'C#']",Unknown,,2
+2023-12-10,"UI Developer (Vue.js, WordPress Expertise)",/jobs/5450005/,Tech Hub AI,"['Java', 'JS', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[40000, 60000]",50000.0,2
+2024-01-10,Middle Node.js Full Stack Developer,/jobs/5481727/,Інтелектуальні Інформаційні Технології,"['Java', 'JS', 'SQL', 'GIT', 'CI/CD', 'NodeJS']",As interview result,,1
+2024-01-05,"Front-end developer (React, Next.js)",/jobs/5463580/,"Червоний хамелеон, Web-агенція","['Java', 'JS', 'API']","[75000, 95000]",85000.0,2
+2023-12-11,"Оператор ЧПК та лазерної порізки, програміст",/jobs/5198204/,BeriVse,[],"[6700, 18000]",12350.0,0
+2024-01-08,Конструктор-програміст на меблеве виробництво,/jobs/5458998/,Антей,[],As interview result,,2
+2024-01-10,Web-програміст,/jobs/5482599/,Радіо Марія,"['PHP', 'SQL', 'HTML', 'WEB']","[5000, 10000]",7500.0,5
+2024-01-05,"Розробник чат-ботів, CRM, мобільних та вебдодатків, Email-маркетолог, таргетолог",/jobs/5476311/,"Junior IT, школа программирования для детей","['Java', 'Python', 'Django', 'Flask']",[20000],20000.0,2
+2024-01-02,"Інженер-технолог, програміст фрезувальних та токарних верстатів з ЧПК",/jobs/5395064/,"Patriot UA, Аircraft New Generation",['1С'],"[20000, 40000]",30000.0,2
+2023-12-13,"Програміст PHP, YII 2, Vue.js",/jobs/3847576/,"Екосистеми онлайн, ТОВ","['PHP', 'JS', 'SQL', 'WEB']","[30000, 60000]",45000.0,2
+2024-01-04,АБС Б2 Розробник,/jobs/5474628/,"Львів, банк",['SQL'],As interview result,,1
+2024-01-04,Java Developer (Senior or Lead),/jobs/5324163/,Piche Ltd,"['Java', 'WEB']","[120000, 160000]",140000.0,5
+2024-01-04,Програміст BAF,/jobs/5391774/,"Три О, ООО",[],Unknown,,5
+2023-12-13,PHP Developer (MODX),/jobs/5454065/,Нью Тайм,"['PHP', 'Java', 'SQL', 'HTML', 'CSS']",Unknown,,1
+2024-01-09,Embedded Developer (C/C++),/jobs/4007416/,American Technologies Network (ATN),"['C++', 'English', 'GIT']",As interview result,,2
+2024-01-02,"Middle C/C++ Developer, розробник ПО",/jobs/5042446/,Sumix Ukraine,"['Python', 'SQL', 'C++', 'English', 'GIT']",Unknown,,2
+2024-01-08,Программист,/jobs/4906579/,BeriVse,"['PHP', 'Java', 'SQL', 'HTML', 'CSS']","[6500, 18000]",12250.0,1
+2023-12-11,PHP-розробник (Laravel),/jobs/5394551/,Tseiko company,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']","[35000, 60000]",47500.0,2
+2023-12-12,"Junior, Middle, Senior PHP developer (Laravel)",/jobs/4606109/,WebMaestro,"['PHP', 'Java', 'SQL', 'Docker', 'GIT', 'API']",Unknown,,2
+2023-12-11,Junior .NET C# Developer,/jobs/5451173/,"Екстракод, ТОВ","['SQL', 'Redis']","[37000, 55000]",46000.0,1
+2024-01-09,Middle Python Developer,/jobs/4821099/,"Comparus UA (Компарус.ЮА, ТОВ)","['Python', 'Docker', 'English', 'WEB', 'API', 'Redis']",Unknown,,2
+2024-01-10,C/C++ developer,/jobs/5362493/,Ozzylogik LTD,"['Java', 'SQL', 'C++', 'API']",Unknown,,5
+2024-01-05,Team Lead iOS Developer,/jobs/5475452/,Wild Wild Leads,"['WEB', 'API']",Unknown,,2
+2023-12-26,Інженер-програміст,/jobs/5343818/,"К-Т-С, ТзОВ","['Python', 'CSS', '1С', 'WEB']",[18000],18000.0,1
+2024-01-09,Програміст 1C,/jobs/5417465/,"Прейс В.М., ФОП","['SQL', '1С']",Unknown,,2
+2023-12-20,Middle Java Developer,/jobs/4080038/,Escalibre LLC,"['Java', 'JS', 'SQL', 'Docker', 'GIT', 'API']",Unknown,,2
+2024-01-10,Middle PHP-розробник,/jobs/5410368/,Опендатабот,"['PHP', 'JS', 'SQL', 'HTML']",Unknown,,2
+2024-01-09,Програміст 1С (BAS),/jobs/5391591/,"Компанія Інтер-Ліс, ТОВ","['SQL', '1С']",As interview result,,5
+2024-01-02,Junior Webflow Developer,/jobs/5470387/,OrangeOrange,"['Java', 'HTML', 'CSS', 'WEB']",As interview result,,1
+2024-01-10,Python developer (Middle/Senior),/jobs/5482955/,OGD Solutions,"['Python', 'SQL', 'Docker', 'English', 'Django', 'Flask', 'GIT', 'CI/CD', 'Redis']","[70000, 110000]",90000.0,2
+2023-12-22,Програміст 1C,/jobs/5156959/,"Паритет, виробничо-комерційна компанія, ТОВ",['1С'],As interview result,,5
+2024-01-10,"Програміст (1C, BAS)",/jobs/5454079/,Fishki Food distribution,['1С'],Unknown,,5
+2024-01-08,"Intern/trainee analytic programmer (DAX, M, VBA, SAS, R, Python)",/jobs/5184790/,Business Research Group,['Python'],As interview result,,0
+2024-01-04,Python developer (senior or lead),/jobs/5335966/,Piche Ltd,"['Python', 'Django', 'Flask', 'WEB', 'CI/CD']","[120000, 160000]",140000.0,5
+2024-01-09,"PHP, JS, Backend, Web Developer",/jobs/3753938/,Solid Solutions,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'WEB']",Unknown,,1
+2024-01-05,Strong Middle/Senior Front-end Developer (Aviation Project),/jobs/5463297/,Прогрестех-Україна,"['Java', 'Docker', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,2
+2023-12-14,Программист Flutter,/jobs/5455621/,SIA Efumo SSC,[],"[39000, 71000]",55000.0,2
+2024-01-10,Full stack developer for CRM & Finance platform,/jobs/5481803/,Siteways,"['Java', 'Python', 'Django', 'Redis']",As interview result,,5
+2023-12-28,React Native developer,/jobs/5467666/,Artius Soft,"['JS', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[15000, 40000]",27500.0,1
+2024-01-09,Технолог-програміст верстатів по металу,/jobs/2514664/,"Енран, ПрАТ",['1С'],[30000],30000.0,2
+2024-01-02,"Програміст PHP (стажер, студент)",/jobs/2989069/,Albedo-Tech,"['PHP', 'Python']",Unknown,,0
+2024-01-04,Програміст 1C,/jobs/5382914/,Kosmotech,['1С'],"[30000, 50000]",40000.0,2
+2024-01-05,Backend Magento developer,/jobs/2050664/,SaM Solutions,"['PHP', 'Java', 'CSS', 'Redis']",Unknown,,1
+2024-01-09,Intern Front-end Developer (Angular 2+),/jobs/5421950/,ITOP1000,"['Java', 'HTML', 'CSS']",Unknown,,0
+2023-12-29,"Senior, Team Lead Frontend-разработчик (React)",/jobs/5326298/,Smartdigit,"['Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[80000, 140000]",110000.0,5
+2023-12-24,"Програміст OpenCart, web-дизайнер",/jobs/4739597/,"Зелений Бір, еко-корпорація","['PHP', 'Java', 'SQL', 'HTML', 'CSS']","[15000, 37000]",26000.0,5
+2024-01-09,Програміст 1C,/jobs/5342238/,Solagro,"['1С', 'WEB', 'API']",Unknown,,5
+2024-01-10,Програміст ЧПК,/jobs/5466822/,Unknown,[],"[30000, 45000]",37500.0,1
+2024-01-08,Android developer,/jobs/5068876/,Solid Solutions,"['Java', 'SQL', 'GIT', 'WEB', 'API']",Unknown,,1
+2023-12-28,Senior Java developer,/jobs/3697980/,Traffic Label,"['Java', 'SQL', 'English']",Unknown,,5
+2024-01-09,Embedded-розробник,/jobs/5417784/,INT24,[],As interview result,,1
+2023-12-12,Frontend-розробник,/jobs/5452214/,Монохром-сервіс,"['PHP', 'Java', 'HTML', 'CSS']",[147000],147000.0,1
+2024-01-09,Junior Frontend Developer,/jobs/5452099/,"Агротеп, ТОВ","['Java', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,1
+2023-12-21,Інженер-програміст АСУ ТП,/jobs/5177396/,"Преобразователь-комплекс, НПП, ООО",[],"[20000, 30000]",25000.0,2
+2023-12-14,Python developer,/jobs/5302747/,Appexoft,"['Python', 'SQL', 'Django', 'GIT', 'WEB']",Unknown,,1
+2024-01-05,Support Software Engineer,/jobs/5379667/,ТАС,['SQL'],Unknown,,1
+2024-01-03,Программист PHP,/jobs/1871479/,Dabltech LTD,"['PHP', 'Java', 'SQL', 'HTML', 'GIT', 'WEB', 'API']",[70000],70000.0,2
+2023-12-29,Sr. Full Stack Developer,/jobs/5468510/,Solve.Care,"['Java', 'JS', 'Docker', 'English', 'GIT', 'WEB', 'API', 'CI/CD']",Unknown,,5
+2023-12-13,"JS, PHP Developer",/jobs/5454081/,Redoo Ukraine,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT']","[30000, 40000]",35000.0,1
+2023-12-27,Програміст баз даних,/jobs/5222013/,СофтПро Глобал,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', '1С', 'WEB']","[20000, 60000]",40000.0,2
+2023-12-27,Senior Back-end Developer,/jobs/3813574/,Brick technology Ukraine,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB']","[75000, 95000]",85000.0,5
+2023-12-25,Програміст,/jobs/5083771/,"Кронос Технолоджі, НВП, ТОВ",[],As interview result,,0
+2024-01-08,Middle Node.js Developer,/jobs/5458714/,WebbyLab,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'English', 'WEB', 'NodeJS']",Unknown,,2
+2024-01-10,"Інженер-конструктор, винахідник, розробник",/jobs/4212570/,Дом Рекламы (Киев),[],"[25000, 30000]",27500.0,1
+2024-01-05,Програміст QV,/jobs/5421018/,Аптека АНЦ,"['SQL', 'ETL']",Unknown,,2
+2023-12-27,Програміст 1C,/jobs/5109709/,Інтеркерама,"['1С', 'API']",As interview result,,2
+2024-01-09,"Програміст (1C, BAS KУП)",/jobs/5429901/,"Бі Бі Клаб, ТОВ","['SQL', '1С']","[60000, 80000]",70000.0,1
+2024-01-10,Програміст-автоматизатор (ZennoPoster),/jobs/5425678/,"Гореліков О.О., ФОП","['SQL', 'C#', 'API']","[14000, 40000]",27000.0,1
+2024-01-02,Node.js Developer,/jobs/5470105/,Swan Software Solutions,"['Java', 'JS', 'SQL', 'English', 'GIT']",Unknown,,2
+2024-01-04,"Програміст (Delphi, Oracle PL/SQL)",/jobs/5363366/,"ІнфоПлюс, АТ","['SQL', 'GIT', 'API']",Unknown,,2
+2024-01-02,Middle Python Developer,/jobs/5437236/,KeyUa,"['JS', 'Python', 'Docker', 'English', 'HTML', 'Django', 'Flask', 'CSS', 'WEB', 'API']",Unknown,,2
+2023-12-14,Програміст BAS (1C),/jobs/4563570/,Эккаунт,"['SQL', '1С']","[50000, 60000]",55000.0,2
+2023-12-22,PHP Senior developer (Yii2),/jobs/5464165/,Unidragonsmedia,"['PHP', 'Java', 'SQL', 'Docker', 'CSS', 'GIT', 'API', 'Redis']","[75000, 185000]",130000.0,5
+2023-12-19,Joomla ООП Middle Full stack Web-програміст (PHP),/jobs/5006715/,"Люменіс, мережа центрів лазерної епіляції та косметології","['PHP', 'JS', 'SQL', 'HTML']","[30000, 40000]",35000.0,2
+2023-12-18,"Unity, С# Developer",/jobs/4691342/,BG Games,"['C#', 'GIT', 'API']","[22000, 32000]",27000.0,2
+2024-01-10,Senior Android Developer,/jobs/5454204/,Fishki Food distribution,['SQL'],Unknown,,2
+2024-01-05,"Junior, Middle WordPress PHP Developer",/jobs/5438234/,Admix Global,['PHP'],As interview result,,1
+2024-01-05,Програміст 1C,/jobs/5475008/,"Ekipazh, завод","['1С', 'API']",As interview result,,2
+2024-01-02,"Front-end developer, HTML-верстальник",/jobs/4941286/,"Горбачова О.В., ФЛП","['JS', 'HTML', 'CSS', 'GIT', 'WEB']","[35000, 45000]",40000.0,0
+2024-01-04,"Розробник бізнес-логіки системи автоматизації підприємства, програміст 1С",/jobs/5433155/,МАКК Системс,"['Java', 'HTML', 'CSS', '1С', 'API']",Unknown,,1
+2024-01-04,".NET Developer (Senior, Lead)",/jobs/5324235/,Piche Ltd,"['C#', 'WEB']","[120000, 160000]",140000.0,5
+2024-01-02,Програміст 1C,/jobs/3652271/,Авантаж 7,"['SQL', '1С']",As interview result,,2
+2024-01-08,Android developer,/jobs/5211358/,Makarenko IT Studio,['API'],"[50000, 80000]",65000.0,1
+2023-12-26,WordPress-розробник,/jobs/3594900/,Rivo.Agency,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-08,C#/.Net Developer,/jobs/5213536/,PNN Soft,"['Java', 'SQL', 'C#', 'English', 'HTML', 'CSS', 'WEB']",Unknown,,0
+2024-01-08,Інженер-програміст (SAP),/jobs/5478386/,Прикарпаттяобленерго,[],[13800],13800.0,2
+2024-01-04,Junior Business Developer,/jobs/5384082/,SBSB Fintech lawyers,['English'],Unknown,,1
+2023-12-11,MS Dynamics 365 F&O Developer,/jobs/4058781/,Out Smart Team,"['SQL', 'English']",Unknown,,2
+2024-01-05,WordPress Developer,/jobs/5202727/,AbeloHost B.V.,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'API']","[34000, 67800]",50900.0,1
+2024-01-09,Програміст 1C,/jobs/5249206/,Офіс Центр,['1С'],As interview result,,1
+2023-12-21,"Affiliate manager, Business Developer",/jobs/5462882/,Sodi agency,['English'],[56000],56000.0,1
+2023-12-18,Системний програміст,/jobs/4984585/,"Артон, ЧП",['C++'],"[20000, 50000]",35000.0,2
+2024-01-04,Повер ВІ розробник (Power BI Developer),/jobs/5462312/,PwC Service Delivery Center,"['SQL', 'ETL', 'HTML']",Unknown,,2
+2023-12-29,"PHP Developer (Laravel), TypeScript, React",/jobs/5434750/,"Ідейл, ТОВ","['PHP', 'Java', 'SQL', 'Docker', 'GIT', 'WEB', 'API', 'Redis']","[60000, 140000]",100000.0,1
+2024-01-10,Програміст 1C,/jobs/5438827/,Ozzylogik LTD,['1С'],Unknown,,2
+2024-01-08,Junior C#/.Net developer,/jobs/1161551/,PNN Soft,"['Java', 'SQL', 'C#', 'HTML', 'CSS', 'WEB']",Unknown,,1
+2024-01-10,PHP developer,/jobs/5461753/,SoftSvit,"['PHP', 'SQL', 'GIT', 'API', 'Redis']",Unknown,,2
+2024-01-02,Програміст 1C,/jobs/5470503/,Agro-market,['1С'],[40000],40000.0,2
+2024-01-04,Інженер-програміст,/jobs/5399584/,Укрпошта,[],[10700],10700.0,0
+2023-12-18,Junior PHP Full-stack developer,/jobs/5458803/,Orbuculum,"['PHP', 'JS', 'SQL', 'Docker', 'GIT', 'Redis']","[16000, 24000]",20000.0,0
+2024-01-10,"Програміст BAS, ""1С:Підприємство 8""",/jobs/2172398/,"Системи для бізнесу, ТОВ",['1С'],[45000],45000.0,2
+2024-01-05,Laravel-разработчик,/jobs/4758967/,Crazy Dev,"['PHP', 'Java', 'JS', 'HTML', 'CSS']","[10000, 30000]",20000.0,1
+2024-01-06,Full-Stack Developer (.Net),/jobs/4004998/,АТБ-маркет,"['SQL', 'Docker', 'C#', 'GIT', 'WEB']",Unknown,,2
+2023-12-25,"Hardware developer, інженер-електронік",/jobs/3474723/,DEC Ukraine,[],Unknown,,1
+2024-01-10,Senior Low-Code Developer (Corezoid),/jobs/5471712/,ТАС,[],Unknown,,1
+2024-01-10,Помічник програміста (SQL),/jobs/5460918/,"Алеф, корпоративный департамент персонала",['SQL'],As interview result,,0
+2023-12-21,Програміст,/jobs/5462253/,Верховний Суд,"['Java', 'Python', 'SQL', 'API']",As interview result,,1
+2024-01-02,Junior C++ програміст,/jobs/5363305/,Robol,['C++'],As interview result,,0
+2024-01-10,Програміст BAS (1С),/jobs/4175296/,"І-АР-ПІ Рішення, ТОВ",['1С'],"[40000, 45000]",42500.0,2
+2024-01-04,Node.js web3 developer,/jobs/5474892/,DegenSoft,"['JS', 'Python', 'API']","[113000, 187000]",150000.0,2
+2024-01-05,"Full-stack PHP developer (Laravel, Angular)",/jobs/5476280/,Softoria,"['PHP', 'JS', 'SQL']","[36000, 60000]",48000.0,1
+,"Програміст 1C (BAS, BAF)",/jobs/5459024/,Sister's Aroma,['1С'],Unknown,,2
+2024-01-10,Розробник ПЗ для інтерактивних сенсорних систем,/jobs/5185307/,Elpix,"['Java', 'C++', 'C#']","[30000, 50000]",40000.0,2
+2024-01-07,Junior PHP Developer,/jobs/5402986/,Paybis,"['PHP', 'SQL']",Unknown,,1
+2023-12-24,DraftBit Programmer,/jobs/5464568/,Dust Busters Plus LLC,[],As interview result,,1
+2024-01-05,PHP middle developer,/jobs/5469023/,Content Mania,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']","[76000, 96000]",86000.0,2
+2024-01-09,WordPress developer,/jobs/5440275/,R.O.N Projects,"['PHP', 'Java', 'English', 'CSS', 'WEB']",As interview result,,2
+2023-12-24,"Програміст (PHP, HTML, Laravel)",/jobs/3152540/,Webkey.one,"['PHP', 'Java', 'SQL', 'HTML', 'CSS']","[20000, 30000]",25000.0,2
+2024-01-08,PHP developer,/jobs/5451232/,EvoPlay,"['PHP', 'JS', 'SQL', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-10,WordPress Full Stack Developer (Middle/Senior),/jobs/5427719/,Bright Nation,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'SEO', 'CI/CD']","[45000, 70000]",57500.0,2
+2023-12-28,"Full Stack Developer (WordPress, Gutenberg, React, Next JS)",/jobs/5468011/,One vision,['JS'],Unknown,,5
+2023-12-29,PHP developer,/jobs/4990461/,SoftGroup,['PHP'],[147000],147000.0,2
+2024-01-03,Front-end розробник,/jobs/4875006/,Хорошоп,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT']",Unknown,,2
+2023-12-18,"Інженер-програміст, IT officer",/jobs/5363203/,Handicap international,[],[42620],42620.0,2
+2024-01-09,Розробник Back-end (Middle+),/jobs/2373986/,Укр.Пей,"['JS', 'SQL', 'GIT', 'API']","[40000, 100000]",70000.0,2
+2024-01-04,Програміст WordPress,/jobs/5373844/,One vision,"['PHP', 'Java', 'English', 'HTML', 'CSS', 'GIT', 'WEB']","[44400, 60000]",52200.0,2
+2024-01-04,Middle Full Stack Web Developer (WP),/jobs/5282771/,Web Design Sun,"['PHP', 'JS', 'GIT', 'WEB']","[25000, 36000]",30500.0,1
+2024-01-10,Розробник 1С,/jobs/5113806/,Алло,['1С'],As interview result,,2
+2023-12-12,"Middle PHP Developer (Laravel, Vue.js, Nuxt.js)",/jobs/5096942/,DevinIT,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS']","[25000, 40000]",32500.0,5
+2023-12-27,"Системний адміністратор, програміст",/jobs/2700996/,Управління поліції охорони в Черкаській області,[],[15000],15000.0,1
+2024-01-09,"Інженер-програміст, електроник (PLC, SCADA) у Київ",/jobs/5208556/,Trigla,[],"[20000, 45000]",32500.0,1
+2024-01-10,Програміст 1C,/jobs/5398791/,Поло-Інвестбуд,['1С'],[10000],10000.0,1
+2024-01-05,Програміст 1C,/jobs/5468827/,Країна,['1С'],Unknown,,1
+2024-01-04,Програміст 1С,/jobs/5256078/,"Потоки, ТОВ","['SQL', '1С']",Unknown,,2
+2024-01-05,Программист 1С,/jobs/5029601/,"Лакі Пет, ТОВ","['SQL', '1С']",[35000],35000.0,2
+2023-12-15,Інженер-програміст,/jobs/5169755/,"Термо-Пак, завод, группа компаний",[],As interview result,,1
+2024-01-02,Embedded-розробник дронів,/jobs/5395607/,Av-Avionics,['C++'],"[15000, 35000]",25000.0,1
+2024-01-02,Angular Software Engineer,/jobs/5308353/,Partners International,"['HTML', 'CSS', 'WEB', 'API']",Unknown,,2
+2023-12-29,Технолог-розробник у відділ R&D,/jobs/5380508/,КР Інгредієнтс,[],As interview result,,1
+2024-01-10,Middle Java Full Stack Developer,/jobs/5362386/,Primocollect Group,"['Java', 'Python', 'SQL', 'GIT', 'CI/CD']",Unknown,,1
+2023-12-15,Програміст БД MS SQL,/jobs/4261072/,Петриківка,['SQL'],Unknown,,2
+2024-01-10,"Front-end developer (React, Next.js)",/jobs/5481274/,Komet Studio,"['Java', 'JS', 'English', 'Django', 'WEB']","[60000, 90000]",75000.0,2
+2024-01-03,WordPress Developer,/jobs/3864530/,White Label Agency,"['PHP', 'Java', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,1
+2024-01-09,Програміст С++,/jobs/4939220/,"Импульс, СНПО, ЧАО","['C++', 'GIT']",Unknown,,1
+2024-01-04,Junior/Middle PHP developer (Full Stack),/jobs/3387833/,SoftSprint,"['PHP', 'Java', 'HTML', 'CSS']",Unknown,,1
+2023-12-26,"Embedded C++ інженер-програміст мікроконтролерів (ESP32, SPI)",/jobs/5190980/,"Немна Н.О., ФОП",['C++'],"[35000, 55000]",45000.0,1
+2023-12-15,Oracle/NET Developer,/jobs/5353503/,Медирент,['SQL'],Unknown,,2
+2024-01-05,Python Backend Developer,/jobs/5463316/,"Trendline, LLC","['Python', 'SQL', 'Docker', 'Django', 'API']",As interview result,,2
+2024-01-04,"Провідний програміст 1С, team lead (BAS)",/jobs/5455750/,DS Electronics,"['SQL', '1С']","[80000, 100000]",90000.0,2
+2023-12-21,"Full stack Developer (React.js, Node.js)",/jobs/5462598/,Coures,"['JS', 'SQL', 'NodeJS']",Unknown,,1
+2024-01-08,Full Stack Angular/.Net Core Developer,/jobs/4832692/,Genolis,"['Java', 'JS', 'Python', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT']","[100000, 150000]",125000.0,2
+2023-12-27,Full stack developer,/jobs/5270059/,Awery Aviation Software,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT']",Unknown,,1
+2024-01-10,"Програміст (BAS, 1С:Підприємство)",/jobs/5091793/,Софтком,['1С'],Unknown,,1
+2024-01-09,Middle Java Developer,/jobs/5133092/,"Comparus UA (Компарус.ЮА, ТОВ)","['Docker', 'English', 'GIT', 'WEB', 'API', 'Redis']",Unknown,,2
+2023-12-20,Full Stack Web Developer,/jobs/4999108/,СмартиМедиа,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'API', 'SEO']","[40000, 80000]",60000.0,2
+2024-01-10,Програміст 1C,/jobs/5461286/,"Кіщук І.В., ФОП",[],Unknown,,1
+2023-12-19,"Full-stack PHP Developer (Laravel, Vue.JS)",/jobs/4792198/,Eivolo Solutions,"['PHP', 'Java', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'SEO']","[20000, 45000]",32500.0,1
+2024-01-10,WordPress developer,/jobs/5401913/,Nassmedia,"['PHP', 'Java', 'HTML', 'CSS', 'GIT', 'API', 'SEO']","[21000, 25000]",23000.0,2
+2023-12-25,"Програміст мікроконтролерів, Embedded Engineer ",/jobs/5443460/,MedStarCom,['GIT'],"[25000, 50000]",37500.0,2
+2023-12-14,"Backend PHP-програміст (Laravel, Yii2, Symfony)",/jobs/888555/,Giant Leap Lab,"['PHP', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']",As interview result,,1
+2024-01-04,Middle C++ Developer (Long Term Project),/jobs/5455026/,Abz.agency®,"['C++', 'English', 'GIT', 'API', 'CI/CD']","[70000, 150000]",110000.0,2
+2024-01-09,Програміст 1C,/jobs/5446835/,"Вартіс, ТОВ","['JS', 'SQL', '1С', 'WEB', 'API']",Unknown,,2
+2024-01-08,Розробник мікропроцесорів,/jobs/5465124/,Ваговимірювальні системи,['C++'],As interview result,,1
+2024-01-04,Senior Software Developer,/jobs/4056692/,"Ливи Эдит, ООО","['Python', 'C++']","[60000, 150000]",105000.0,5
+2024-01-10,Програміст-оператор на фрезерний верстат з ЧПК,/jobs/4283689/,"Енергооблік, ПрАТ",[],As interview result,,2
+2023-12-11,Програміст WordPress,/jobs/5451779/,DevsX,"['Java', 'HTML', 'CSS', 'SEO']","[23000, 28000]",25500.0,2
+2023-12-23,Senior Java Developer,/jobs/5284442/,GranSoft,"['Java', 'SQL']",Unknown,,5
+2024-01-10,Програміст PHP,/jobs/5481857/,FireLink Media,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'SEO', 'CI/CD', 'Redis']",Unknown,,2
+2023-12-19,Програміст 1C,/jobs/5220056/,Валько,"['SQL', '1С']",As interview result,,2
+2024-01-09,WordPress Developer,/jobs/5342239/,Meta-technology,"['PHP', 'HTML', 'CSS']",Unknown,,2
+2023-12-13,Senior розробник Microsoft Power Platform,/jobs/5453892/,Kenek soft,[],As interview result,,2
+2024-01-08,Flutter developer,/jobs/4699544/,Укр.Пей,"['Java', 'SQL', 'GIT', 'API']","[30000, 65000]",47500.0,2
+2024-01-05,"Інженер-програміст АСК (АСУ, АСУТП, КВП)",/jobs/4187456/,ТопСітіСервіс,[],As interview result,,1
+2023-12-20,.Net Core Backend Developer,/jobs/4980690/,Chaika Tech Inc,"['Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,1
+2023-12-14,Senior Sharepoint on-line (O365) developer,/jobs/5455188/,Kyivstar.Tech,"['Java', 'SQL', 'English', 'HTML', 'CSS', 'WEB', 'API']",Unknown,,2
+2023-12-20,Opencart developer,/jobs/5461145/,Art-pixel,"['PHP', 'JS', 'SQL', 'API']","[15000, 40000]",27500.0,0
+2024-01-04,"Node. js, Angular 8 developer",/jobs/5474174/,ProtoQ,"['Java', 'JS', 'C++', 'C#', 'English', 'GIT', 'WEB']",Unknown,,2
+2024-01-10,Програміст 1С,/jobs/1112475/,Галафарм,['1С'],As interview result,,1
+2024-01-10,Розробник PHP Laravel,/jobs/5467335/,ШвидкоГрошi,"['PHP', 'SQL', 'GIT', 'API']",Unknown,,2
+2024-01-09,Strong Junior PHP Developer,/jobs/5453203/,KHire-Agency,"['PHP', 'Java', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB']","[38023, 70000]",54011.5,1
+2024-01-04,Програміст 1C,/jobs/5474451/,Золотий Вік,"['SQL', '1С']",Unknown,,2
+2024-01-09,Програміст 1C,/jobs/5408059/,"Сфера, торгово-производственное предприятие","['SQL', '1С']",Unknown,,2
+2024-01-04,SQL-програміст,/jobs/4761963/,ВіЯр,"['SQL', 'ETL', '1С']",Unknown,,2
+2024-01-08,Програміст 1C (BAF),/jobs/5131211/,Big Shop,['1С'],"[30000, 45000]",37500.0,1
+2024-01-02,Middle Developer (PHP),/jobs/3931509/,Redoo Ukraine,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT']","[30000, 60000]",45000.0,2
+2024-01-09,Python developer на платформі Odoo,/jobs/5444663/,Aurelis Software,"['Java', 'Python', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-08,Старший розробник C++,/jobs/1652010/,Zultys Inc.,['C++'],"[140000, 200000]",170000.0,5
+2024-01-09,Провідний програміст 1С,/jobs/5434848/,Optima Hotels & Resorts,"['SQL', '1С']",Unknown,,5
+2024-01-05,SQL Developer,/jobs/5303353/,ПриватБанк,"['SQL', 'GIT']",Unknown,,1
+2024-01-09,"Senior Golang, PHP Software Developer",/jobs/5481202/,Рекрутік,"['PHP', 'SQL', 'API']","[70000, 190000]",130000.0,2
+2023-12-13,Інженер-програміст у Бровари,/jobs/5453904/,Хало Траст (представництво в Україні),"['Python', 'C++']",[54838],54838.0,1
+2023-12-21,Middle WordPress Developer,/jobs/4941886/,"Горбачова О.В., ФЛП","['JS', 'HTML', 'CSS', 'GIT']","[38000, 57000]",47500.0,2
+2024-01-10,"Strong Junior, Middle Full-Stack Developer",/jobs/5482466/,Sodi agency,"['Java', 'JS', 'Python', 'English', 'WEB', 'API', 'CI/CD']","[57000, 114600]",85800.0,1
+2024-01-10,Розробник реляційних баз даних,/jobs/2445316/,"Metal Expert, інформаційно-аналітична агенція","['SQL', 'CI/CD']",Unknown,,1
+2023-12-14,"IOS Developer (Swift, junior, middle, senior)",/jobs/5413343/,Inear Apps,"['GIT', 'API']","[30000, 90000]",60000.0,1
+2024-01-02,Junior Wordpress Developer,/jobs/4261557/,WHA,"['PHP', 'SQL', 'HTML', 'CSS', 'WEB']","[18000, 20000]",19000.0,0
+2023-12-18,Web developer (WordPress),/jobs/5360053/,White Label Agency,"['PHP', 'Java', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[18500, 35000]",26750.0,1
+2024-01-09,Програміст 1C (BAF),/jobs/5279308/,Chicco,"['1С', 'WEB']",[70000],70000.0,2
+2023-12-27,Senior Back-End Ruby on Rails Developer,/jobs/5466792/,Echo,"['SQL', 'Ruby', 'English', 'WEB']",Unknown,,5
+2024-01-10,"Strong Junior, Middle Back-End Developer (.Net)",/jobs/5472104/,SmartTender,"['SQL', 'Docker', 'GIT', 'API']",Unknown,,2
+2023-12-29,Fullstack Python/React Developer,/jobs/5017342/,Elementica,"['Java', 'JS', 'Python', 'SQL', 'Docker', 'English', 'Django', 'Flask', 'CSS', 'FastAPI', 'WEB', 'API', 'CI/CD']","[60000, 150000]",105000.0,2
+2023-12-12,"Node.js, Angular 8 developer",/jobs/5204604/,ProtoQ,"['Java', 'JS', 'C++', 'C#', 'English', 'GIT', 'WEB']",Unknown,,2
+2024-01-08,Розробник програми на основі штучного інтелекту,/jobs/5479101/,Alitheia,[],As interview result,,2
+2024-01-03,Програміст 1C,/jobs/5471934/,"ЛДК, ООО",['1С'],As interview result,,2
+2023-12-30,Програміст 1C,/jobs/5308259/,"Близнюк І.Є., ФОП",[],[50000],50000.0,5
+2024-01-08,Програміст 1C/BAS,/jobs/5105016/,"Бизнес Иновации Технологии, ООО","['JS', '1С']","[23000, 45000]",34000.0,2
+2024-01-04,Trainee/Junior Wordpress Developer,/jobs/5444905/,VAU.Agency,"['PHP', 'JS', 'HTML', 'CSS', 'GIT']","[10000, 25000]",17500.0,0
+2024-01-05,Програміст 1С,/jobs/5463453/,Лазерхауз,"['JS', 'SQL', '1С']",[60000],60000.0,1
+2023-12-11,PHP Front-end developer,/jobs/5450958/,Yopeople Inc,[],Unknown,,1
+2024-01-08,React Front-end розробник (Next.js),/jobs/5206013/,Nowayout Escape Rooms,"['Java', 'JS', 'GIT', 'API']","[45000, 60000]",52500.0,2
+2024-01-10,Програміст 1C,/jobs/5482490/,Unknown,['1С'],[60000],60000.0,2
+2023-12-11,"Web developer, інтегратор, технічний спеціаліст",/jobs/5446894/,Djo,[],Unknown,,0
+2024-01-08,Програміст 1С,/jobs/5370672/,"Moyo, мережа магазинів",['1С'],Unknown,,2
+2024-01-05,.NET Full Stack Web Developer for USA Software Company Remote,/jobs/5476233/,CarShipIO,"['Java', 'JS', 'SQL', 'C#', 'English', 'HTML', 'CSS', 'WEB', 'API']","[35000, 85000]",60000.0,1
+2023-12-14,"Embedded Software Engineer (video streaming, processing)",/jobs/5455721/,Frontline,[],Unknown,,2
+2023-12-14,Програміст BAS (1С),/jobs/5455060/,"ТАС Ессет Менеджмент, ТОВ",['1С'],As interview result,,5
+2023-12-19,Mobile Developer,/jobs/5460694/,Trinix Ways,['WEB'],Unknown,,1
+2024-01-09,Flutter developer,/jobs/5480196/,Screen Interactive,"['JS', 'GIT', 'WEB', 'API']",Unknown,,1
+2024-01-01,"Програміст Delphi, С++, С#",/jobs/5469606/,"Профи-ПО, ООО",[],[5000],5000.0,5
+2024-01-02,Business developer (telemedicine platform),/jobs/5471265/,DoktorABC,['English'],"[57000, 75000]",66000.0,2
+,Middle Salesforce Developer,/jobs/5475500/,NIX,"['English', 'WEB']",Unknown,,2
+2023-12-11,"Junior, Trainee React developer",/jobs/5082993/,Appexoft,"['English', 'GIT', 'WEB', 'API']",Unknown,,1
+2024-01-09,"Розробник ABAP (SAP ERP, HCM)",/jobs/5470349/,"Нафтогаз Цифрові Технології, ТОВ",['API'],Unknown,,5
+2024-01-05,Desktop (WinForms C#) Developer,/jobs/5457123/,"Фора, ТОВ","['SQL', 'C#']",Unknown,,1
+2024-01-10,Low-Code Developer (Corezoid),/jobs/5471721/,ТАС,"['Java', 'API']",Unknown,,1
+2023-12-18,Програміст 1С,/jobs/4963751/,Meta Sistem,['1С'],Unknown,,2
+2023-12-14,Senior .Net Developer,/jobs/5455246/,Onix-Systems,"['SQL', 'C#', 'English', 'WEB', 'API']","[70000, 100000]",85000.0,5
+2024-01-09,Програміст 1C,/jobs/5148241/,"Любисток, торговий дім, ТОВ",['1С'],As interview result,,1
+2024-01-07,Junior developer (React or Java Spring),/jobs/5306507/,"15А, гостевой дом","['Java', 'JS', 'SQL', 'Docker', 'GIT']",Unknown,,0
+2024-01-05,"Програміст 1С, BAS",/jobs/5476169/,Агро Сіті,['1С'],As interview result,,2
+2024-01-02,Linux System Developer,/jobs/5471161/,"Юровська О.Г., ФОП","['Java', 'C++']",As interview result,,2
+2024-01-04,Full stack программист,/jobs/5463059/,"IStar, Design Bureau","['PHP', 'Java', 'JS', 'SQL', 'Docker', 'English', 'HTML', 'CSS', 'GIT', 'WEB']","[30000, 60000]",45000.0,1
+2024-01-06,PLC programmer,/jobs/5283056/,Smart Industry Group,[],"[40000, 100000]",70000.0,1
+2024-01-05,PHP developer,/jobs/5475426/,Panda team,"['PHP', 'Java', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,1
+2023-12-12,Front-end разработчик,/jobs/5452543/,AB Digital Software,"['GIT', 'WEB', 'API']","[30000, 45000]",37500.0,2
+2023-12-22,Програміст 1C,/jobs/5464233/,Blago developer,"['GIT', '1С']",As interview result,,2
+2023-12-19,Full-Stack JS Developer,/jobs/5460656/,New Normal,"['JS', 'English']",Unknown,,1
+2024-01-04,Програміст 1С,/jobs/5462947/,Meest,"['JS', '1С', 'API']",Unknown,,2
+2024-01-06,Junior Unity Developer для розробки мобільних ігор,/jobs/5476473/,Puzzle Mobile Games,[],"[15000, 20000]",17500.0,1
+2024-01-05,Middle WordPress Developer (Full stack),/jobs/4976165/,Artsel,"['PHP', 'JS', 'HTML', 'CSS', 'GIT']","[40000, 70000]",55000.0,2
+2023-12-21,C Software Developer,/jobs/5462495/,"Job Advice, Agency","['Python', 'English', 'GIT']",Unknown,,2
+2024-01-03,Front-end developer,/jobs/5471828/,A&B Software Company,"['WEB', 'API']","[40000, 60000]",50000.0,2
+2023-12-15,"Full stack PHP-, JS-розробник",/jobs/5413118/,Datami,"['PHP', 'Java', 'JS', 'SQL', 'GIT', 'WEB']",Unknown,,1
+2024-01-06,Trainee Flutter Developer,/jobs/5118022/,Flutshut,[],"[16000, 35000]",25500.0,0
+2023-12-22,Mid-Level Flutter Developer,/jobs/5463777/,Matrixsoftlabs SIA,[],As interview result,,1
+2023-12-27,Back end програміст,/jobs/5466719/,Traff Group,"['JS', 'Docker', 'GIT', 'WEB', 'API', 'Redis']",Unknown,,2
+2024-01-04,Програміст 1С (BAS),/jobs/5410684/,Talent Hub,"['SQL', '1С']","[70000, 90000]",80000.0,2
+2024-01-04,"Оператор ЧПК, програміст, фрезерувальник",/jobs/4716863/,Тара-Пак,[],Unknown,,2
+2024-01-10,Full-stack back-end developer,/jobs/910090/,Lestro,"['JS', 'SQL']",Unknown,,2
+2024-01-09,Менеджер-розробник інноваційної продукції,/jobs/3238331/,Collar,[],Unknown,,1
+2024-01-05,PHP junior developer,/jobs/5469153/,Content Mania,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API']","[38000, 56000]",47000.0,1
+2023-12-29,Middle PHP developer,/jobs/5469127/,Агріаналітика,"['PHP', 'JS', 'SQL', 'Docker', 'API']",As interview result,,1
+2024-01-10,Програміст 1C,/jobs/4845990/,Алло,['1С'],As interview result,,2
+2023-12-29,Junior Flutter Developer,/jobs/5468951/,IT-WAY,[],Unknown,,0
+2023-12-22,Golang Developer,/jobs/5464250/,VeryBusy Recruiting,['SQL'],"[57000, 130000]",93500.0,2
+2023-12-11,"Senior Mobile Developer (IOS, Android)",/jobs/5451654/,Chatmasters AI,"['GIT', 'WEB', 'API']",Unknown,,2
+2023-12-20,Middle Full-Stack Developer (Angular),/jobs/5461533/,Intersolutions (Comm.V),"['Java', 'JS', 'GIT']",[61000],61000.0,2
+2024-01-10,"Golang developer (Middle, Senior)",/jobs/5482952/,OGD Solutions,"['SQL', 'Docker', 'English', 'GIT', 'API', 'Redis']","[70000, 110000]",90000.0,2
+2023-12-15,React Native Developer,/jobs/5456264/,LittleQuest,"['JS', 'NodeJS']",Unknown,,1
+2024-01-05,Android-розробник,/jobs/4152887/,"Радабанк, АБ, АТ","['Java', 'API']",Unknown,,1
+2023-12-11,Програміст Golang,/jobs/5451660/,JetAgro,"['SQL', 'GIT', 'CI/CD']","[75000, 110000]",92500.0,2
+2024-01-05,Програміст 1С (Middle),/jobs/5463991/,Netpeak Group,['1С'],Unknown,,2
+2024-01-08,Android Developer,/jobs/5451505/,Торговий Дім АВ,['WEB'],Unknown,,2
+2024-01-09,Програміст 1C,/jobs/5399588/,"СВР, торговый дом",['1С'],"[50000, 60000]",55000.0,2
+2024-01-09,"Програміст ЧПК (inventor, з навчанням) у Проліски",/jobs/5410805/,"СТ Спецмонтаж, ТОВ",[],[16000],16000.0,0
+2024-01-09,"Менеджер з автоматизації, програміст 1С",/jobs/5435362/,Puma,"['SQL', '1С']",Unknown,,2
+2023-12-13,Middle Full Stack Web Developer (WP),/jobs/5454521/,Digiproduct.co.il,"['Java', 'HTML', 'CSS', 'GIT', 'WEB']","[37000, 45000]",41000.0,2
+2024-01-09,Embedded developer,/jobs/5480418/,Netronic,['GIT'],Unknown,,2
+2024-01-04,Python/C# Developer for Revit Plugin Development,/jobs/5454601/,RD Studio,"['Python', 'C#', 'English', 'GIT', 'API']","[20000, 50000]",35000.0,2
+2023-12-28,HTML/CSS Developer﻿,/jobs/5468177/,MintyMint,"['HTML', 'CSS']",Unknown,,1
+2024-01-08,Fullstack developer (Blockchain domain),/jobs/5479195/,Anola,"['Java', 'JS', 'English', 'GIT', 'WEB']","[25000, 70000]",47500.0,1
+2023-12-20,Програміст PHP,/jobs/5461275/,Ethical Solutions,['PHP'],"[6000, 9000]",7500.0,1
+2024-01-08,Front-end Developer (Vue.js),/jobs/5477087/,Blade Team,"['Java', 'JS', 'HTML', 'CSS', 'API']","[10000, 30000]",20000.0,1
+2023-12-27,PHP Developer,/jobs/5305483/,Evogence,"['PHP', 'Java', 'Python', 'SQL', 'HTML', 'GIT', 'API']",Unknown,,2
+2024-01-10,"Middle Full-Stack Developer (PHP, Laravel)",/jobs/5360478/,Primocollect Group,"['PHP', 'JS', 'Python', 'SQL', 'HTML', 'Django', 'CSS', 'FastAPI', 'API']",Unknown,,2
+2024-01-05,Провідний інженер-програміст 1С,/jobs/5463630/,Ukrlandfarming,"['JS', '1С', 'WEB', 'API']",Unknown,,2
+2024-01-10,3D-розробник макетів (намордники),/jobs/5482002/,"DeKit, ТМ",[],"[7000, 10000]",8500.0,0
+2024-01-05,"Junior Python AQA, Developer in Test",/jobs/5456736/,Ajax Systems,"['Python', 'SQL', 'Docker', 'GIT', 'CI/CD']",Unknown,,0
+2024-01-10,React native developer (Middle/Senior),/jobs/5482950/,OGD Solutions,"['Java', 'English', 'WEB']","[70000, 110000]",90000.0,2
+2023-12-15,Senior WordPress Developer (Full stack),/jobs/5307029/,Artsel,"['PHP', 'JS', 'HTML', 'CSS', 'GIT']","[50000, 80000]",65000.0,5
+2023-12-11,Менеджер-розробник автобусних турів,/jobs/5451648/,"Join UP!, міжнародний туроператор",[],Unknown,,1
+2023-12-11,"Front-end developer (React, Vue.js)",/jobs/4805592/,Domino-Art,"['Java', 'JS', 'CSS', 'GIT', 'WEB', 'API']","[45000, 70000]",57500.0,2
+2023-12-15,"Strong Junior, Middle Front-end developer",/jobs/5233601/,Out of the Box Systems,"['Java', 'JS', 'HTML', 'CSS', 'GIT']",[37000],37000.0,1
+2023-12-26,Full Stack Developer,/jobs/5316331/,Claimr Software LTD,"['JS', 'SQL', 'English', 'GIT', 'API']",Unknown,,2
+2024-01-05,Програміст 1С (Middle),/jobs/5463983/,Netpeak Group,['1С'],Unknown,,2
+2024-01-09,Розробник Full stack (ASP.NET/.NET Core&JS),/jobs/3911616/,Linkos Group,"['Java', 'SQL', 'C#', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,1
+2024-01-04,Розробник WordPress,/jobs/3927955/,Надія є (FineLine),"['PHP', 'JS']","[20000, 40000]",30000.0,1
+2024-01-09,Senior Python Developer,/jobs/5452563/,EVA.tech,"['Python', 'SQL', 'Django', 'WEB', 'Redis']",Unknown,,2
+2024-01-08,Junior PHP-розробник,/jobs/5313332/,Опендатабот,"['PHP', 'JS', 'SQL', 'HTML']",Unknown,,1
+2024-01-09,Software engineer,/jobs/5479367/,АТБ-маркет,"['Docker', 'GIT', 'WEB']",Unknown,,2
+2024-01-08,Backend Developer,/jobs/5115729/,Elementor Lab,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT', 'API']","[10000, 30000]",20000.0,2
+2024-01-08,Інженер-програміст,/jobs/5451426/,RetailGroup,"['Java', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2024-01-08,"Розробник сайтів (Wordpress, Opencart)",/jobs/5352645/,Хайвей Ту Топ,[],"[30000, 60000]",45000.0,2
+2024-01-10,Технолог-розробник м'яких меблів,/jobs/5464035/,Björn,[],"[17000, 20000]",18500.0,2
+2024-01-09,"С++, C# developer",/jobs/5413803/,Linkos Group,"['SQL', 'C++']",Unknown,,1
+2024-01-08,Strong Junior Frontend developer,/jobs/5450697/,"Українська універсальна біржа, ТОВ","['JS', 'HTML', 'CSS', 'GIT']",Unknown,,1
+2024-01-09,Інженер-програміст АСУ ТП,/jobs/4718749/,Аса-Инжиниринг,[],[27000],27000.0,2
+2024-01-09,Програміст/програмістка 1C (ЗУП),/jobs/5431376/,Starlight Media,['1С'],Unknown,,2
+2024-01-08,PHP developer,/jobs/5410410/,Нью Тайм,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'Redis']",Unknown,,2
+2024-01-08,React Native Developer,/jobs/5299357/,Accumulator Digital Agency,"['Java', 'English']",[60000],60000.0,2
+2023-12-16,Java-розробник,/jobs/5457232/,"Радмиртех, СП","['Java', 'JS', 'SQL', 'Docker', 'GIT', 'WEB', 'API', 'Redis']","[20000, 60000]",40000.0,1
+2023-12-13,Symfony-розробник,/jobs/5454520/,BroDev,['PHP'],As interview result,,2
+2024-01-08,Android Developer,/jobs/2068296/,PNN Soft,"['Java', 'JS', 'SQL', 'English', 'HTML']",Unknown,,1
+2024-01-09,Електронік-програміст,/jobs/4873234/,"Импульс, СНПО, ЧАО","['C++', 'C#']",Unknown,,1
+2023-12-20,Програміст-технолог верстатів ЧПК,/jobs/5428533/,Харківський міський центр зайнятості,[],As interview result,,1
+2024-01-09,Embedded developer,/jobs/5191636/,"Скаетон, авіаційна виробнича компанія, ТОВ","['C++', 'GIT']",Unknown,,2
+2024-01-04,Middle Embedded Developer,/jobs/5462888/,Unknown,"['C++', 'GIT']","[60000, 85000]",72500.0,2
+2024-01-04,Інженер-програміст верстатів ЧПК,/jobs/5212189/,"Країна, кадрове агентство",[],"[30000, 35000]",32500.0,2
+2024-01-09,Full Stack Web Developer,/jobs/5480201/,SDP Games,"['PHP', 'Java', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'WEB', 'API']","[65000, 150000]",107500.0,2
+2023-12-21,Інженер-програміст,/jobs/5462609/,Полтавська обласна бібліотека для юнацтва імені Олеся Гончара,[],[8500],8500.0,1
+2023-12-18,Розробник 1C,/jobs/5457950/,ЕК Євросвітло,"['SQL', '1С', 'API']",Unknown,,2
+2024-01-09,IOS Developer,/jobs/5480175/,Improve Team,['WEB'],"[50000, 100000]",75000.0,1
+2024-01-05,"Еколог, інженер-розробник екологічної дозвільної документації",/jobs/3324467/,"Експертний центр, НП, ТОВ",[],As interview result,,1
+2023-12-14,Unity 3D-программист,/jobs/5454727/,Midnight Works,['GIT'],"[15000, 25000]",20000.0,1
+2024-01-09,"PHP, Backend, Web Developer",/jobs/5032060/,Solid Solutions,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'WEB']",Unknown,,1
+2024-01-07,"Back-end developer (intern, Laravel)",/jobs/5477068/,PatronBadge,"['PHP', 'SQL', 'English', 'WEB', 'Redis']","[15000, 19000]",17000.0,0
+2023-12-15,Програміст PHP,/jobs/5456217/,TrendGroup,"['PHP', 'GIT', 'API']","[40000, 80000]",60000.0,1
+2023-12-18,Проєкт менеджер-програміст BAS (1С) (кадровий резерв),/jobs/5458941/,Elis,[],"[2000, 6000]",4000.0,2
+2023-12-12,Програміст BAS/1С,/jobs/3171506/,Qwerty group,['1С'],"[30000, 50000]",40000.0,2
+2024-01-10,Програміст мікроконтролерів,/jobs/5113676/,Handrex Mobility,['API'],As interview result,,1
+2024-01-08,"Програміст 1С, BAS ERP",/jobs/5458190/,UPG,['1С'],Unknown,,2
+2024-01-02,"Web-разработчик, PHP-программист",/jobs/5469826/,"WebUkraine, Web Studia","['PHP', 'SQL']","[5000, 8000]",6500.0,1
+2023-12-26,Програміст 1С,/jobs/5417946/,"Zviger, LLC","['1С', 'WEB']",Unknown,,2
+2023-12-24,Senior Backend Developer (Node.js),/jobs/5464573/,Clav,"['JS', 'GIT', 'WEB', 'NodeJS']","[150000, 200000]",175000.0,5
+2023-12-28,Backend PHP developer,/jobs/5468029/,Liga.net,"['PHP', 'SQL', 'GIT']",As interview result,,2
+2024-01-10,Software Engineer (Intern),/jobs/5271115/,Entrilia,"['Java', 'Python', 'C++', 'Ruby', 'GIT']",Unknown,,0
+2024-01-09,Програміст 1С (junior),/jobs/5470535/,Флай Кідс дитячий розважальний комплекс,['1С'],[20000],20000.0,1
+2024-01-08,Програміст 1С,/jobs/5160596/,MD-Fashion,"['SQL', '1С', 'WEB']",Unknown,,1
+2024-01-02,Front-end developer,/jobs/4942035/,SEOQuick,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'WEB']","[50000, 80000]",65000.0,2
+2023-12-11,1C developer,/jobs/5450914/,"Domino, DIY Hypermarket","['JS', 'SQL', 'GIT', '1С', 'WEB', 'API']",As interview result,,2
+2024-01-01,Програміст 1C,/jobs/5439767/,"Лібертон, ТОВ","['SQL', '1С']",Unknown,,2
+2024-01-09,Програміст 1С,/jobs/5043303/,ADS,['1С'],As interview result,,2
+2023-12-20,Програміст 1С,/jobs/5461317/,Стефайно Фекторі,['1С'],Unknown,,1
+2024-01-10,Shopify-розробник,/jobs/5014305/,Sabotazh,"['English', 'WEB']","[38000, 46000]",42000.0,2
+2024-01-04,Power BI Developer,/jobs/5455319/,"МХП, ПрАТ",['SQL'],Unknown,,2
+2024-01-04,Програміст 1С,/jobs/5119869/,MVM,['1С'],Unknown,,5
+2024-01-09,"Оператор, налагоджувальник, програміст верстатів ЧПК",/jobs/5480028/,Foamtek,[],"[18000, 21000]",19500.0,2
+2024-01-09,Trainee Software Engineer (Frontend),/jobs/3941671/,"Миллер А., ФЛП","['Java', 'JS', 'English', 'HTML', 'CSS']","[14000, 15000]",14500.0,1
+2024-01-04,Middle Flutter Developer,/jobs/5467689/,MakeIT,"['GIT', 'API']","[38000, 76000]",57000.0,2
+2024-01-09,Програміст 1C,/jobs/5134880/,"Orto Smart, медтехніка-ортосалон, мережа ортопедичних магазинів","['SQL', '1С', 'API']",Unknown,,2
+2023-12-25,Front-end разработчик,/jobs/5464906/,MR Software Company,"['WEB', 'API']","[40000, 60000]",50000.0,2
+2024-01-02,Strong Junior/Middle Full-stack розробник,/jobs/5404669/,ЄДніпро,"['JS', 'SQL', 'GIT', 'API']",Unknown,,1
+2024-01-07,"Roblox Lua Developer, Gameplay Programmer",/jobs/5476758/,Sonblox Studio,[],"[15000, 30000]",22500.0,0
+2023-12-11,Node.js Developer (junior/trainee),/jobs/4319434/,Appexoft,"['Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'Redis']",Unknown,,1
+2024-01-09,WordPress developer,/jobs/5480394/,Rif Media,"['PHP', 'Java', 'HTML', 'CSS', 'WEB']",As interview result,,1
+2024-01-10,Flutter developer (Middle/Senior),/jobs/5482957/,OGD Solutions,"['Java', 'English', 'GIT']","[70000, 110000]",90000.0,2
+2024-01-09,Web developer,/jobs/5481062/,White Wolf,['WEB'],Unknown,,0
+2024-01-09,Програміст 1C,/jobs/5460211/,Червоний Маркет,['1С'],Unknown,,1
+2024-01-03,Програміст 1С,/jobs/4883085/,Taburetka.ua,['1С'],"[18000, 35000]",26500.0,2
+2024-01-08,Web developer,/jobs/5451211/,Talent Hub,"['PHP', 'Java', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'CI/CD', 'Redis']",Unknown,,2
+2024-01-05,Strong Junior Full-Stack Web Developer,/jobs/5463644/,Unknown,"['PHP', 'Java', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB']","[38000, 56000]",47000.0,1
+2023-12-21,Python-розробник,/jobs/5463142/,"Кодісофт, ТОВ","['JS', 'Python']",[37000],37000.0,1
+2024-01-10,"Embedded-інженер, програміст мікроконтролерів",/jobs/5322611/,STEM hub,[],As interview result,,1
+2024-01-04,Програміст 1С (напрямок УТП),/jobs/5468315/,Union Group,"['SQL', '1С', 'WEB', 'API']",Unknown,,2
+2024-01-09,Full Stack C#/.Net Developer,/jobs/5213555/,PNN Soft,"['Java', 'SQL', 'C#', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,1
+2024-01-10,Middle Backend PHP Web-Developer,/jobs/4828780/,Solid Solutions,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'WEB']",Unknown,,2
+2024-01-04,Web-розробник (розробка вебсайту),/jobs/4005217/,"Мебляр, ФОП",['WEB'],As interview result,,5
+2023-12-14,Програміст 1С,/jobs/5455214/,Sat,['1С'],Unknown,,1
+2024-01-08,1C-програміст,/jobs/5033594/,Extreme Pride,"['1С', 'WEB', 'API']",Unknown,,2
+2024-01-05,Програміст 1C (BAS),/jobs/5468786/,"Костенко Ю. Є., ФОП",['1С'],"[30000, 50000]",40000.0,1
+2023-12-13,Програміст PHP,/jobs/5367501/,EW,"['PHP', 'SQL', 'Docker', 'GIT', 'WEB']","[37000, 64000]",50500.0,1
+2024-01-10,Front-end програміст,/jobs/5482255/,Hotels24.ua,"['PHP', 'JS', 'Docker', 'CSS', 'GIT']",As interview result,,1
+2024-01-05,Програміст 1C,/jobs/3277008/,Фарби Колорит,['1С'],"[45000, 50000]",47500.0,2
+2023-12-20,Full stack developer,/jobs/5461884/,Інноваційні IT-рішення,"['PHP', 'JS', 'API']","[40000, 80000]",60000.0,2
+2024-01-04,Full Stack Developer,/jobs/5455834/,ServiceinUa,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'API', 'Redis']","[50000, 70000]",60000.0,5
+2024-01-04,Front-End Developer (Senior or Lead),/jobs/5324195/,Piche Ltd,"['Java', 'HTML', 'CSS', 'WEB']","[120000, 160000]",140000.0,5
+2024-01-09,"Senior Java developer, architect",/jobs/5425052/,Trade Service Alliance,"['SQL', 'Docker', 'API']",As interview result,,2
+2023-12-20,"Flutter, React, React Native, Ruby on Rails Developer",/jobs/5461996/,Matrixsoftlabs SIA,['Ruby'],As interview result,,1
+2023-12-29,Strong Junior/Middle iOS Developer,/jobs/5469003/,"Опришко М.І., ФОП","['GIT', 'API']",As interview result,,1
+2024-01-09,Програміст АСУ ТП,/jobs/5339342/,"Фомальгаут Полімін, ТОВ",[],Unknown,,1
+2024-01-10,Back End Developer,/jobs/5461456/,Agency Amazon,"['JS', 'Python', 'API']","[20000, 40000]",30000.0,1
+2024-01-10,"Інженер з розробки вбудованих систем, Embedded developer (strong middle)",/jobs/5384757/,"Українські Інфосистеми, ТОВ",[],Unknown,,1
+2024-01-05,Open-Source C++ Developer,/jobs/5403793/,Altinity,"['C++', 'English', 'GIT', 'API']",Unknown,,5
+2024-01-10,Wordpress developer (Middle/Senior),/jobs/5482960/,OGD Solutions,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'API']","[70000, 110000]",90000.0,2
+2023-12-20,Інженер-розробник електроніки,/jobs/5461840/,ГироЛаб,['GIT'],Unknown,,5
+2023-12-22,Senior Full Stack Web Developer (Back End),/jobs/5385666/,"Стекс Україна, ТОВ","['PHP', 'Java', 'SQL', 'English', 'CSS', 'WEB', 'API']","[140000, 180000]",160000.0,5
+2023-12-11,Програміст 1C,/jobs/5450720/,"ТоргСервіс плюс, ПП",['1С'],"[25000, 30000]",27500.0,2
+2023-12-30,PHP-розробник (Symfony),/jobs/3847360/,Herdwatch Ltd,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'English', 'GIT', 'WEB', 'API']","[60000, 120000]",90000.0,2
+2024-01-10,Full-Stack Web Developer,/jobs/5452640/,"TurboWeb, агентство інтернет-маркетингу","['PHP', 'JS', 'Python', 'SQL', 'Django', 'GIT', 'WEB', 'API', 'NodeJS', 'Redis']","[25000, 35000]",30000.0,1
+2024-01-02,ServiceNow Developer,/jobs/5470908/,Lea ther,"['Java', 'SQL', 'HTML', 'CSS']",[100000],100000.0,2
+2023-12-13,Junior розробник (Microsoft Power Platform),/jobs/5454025/,Kenek soft,[],As interview result,,1
+2024-01-09,Junior/Middle C++ Developer,/jobs/4935903/,AvMap Ukraine LLC,"['Java', 'C++', 'English', 'GIT', 'CI/CD']",Unknown,,2
+2023-12-21,Middle Full-Stack JavaScript Developer,/jobs/5418639/,Національні інформаційні системи,"['Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[95000, 110000]",102500.0,5
+2024-01-02,Дизайнер-розробник вишивальних програм,/jobs/5205030/,"Шеремет А. О., ФОП",[],"[10000, 25000]",17500.0,0
+2024-01-10,Middle Front End Developer (Angular),/jobs/5482739/,Portmone.com,"['JS', 'Docker', 'HTML', 'CSS', 'WEB', 'NodeJS']",Unknown,,2
+2023-12-20,Embedded-розробник,/jobs/4290383/,Vending Land,['JS'],As interview result,,1
+2024-01-05,React Front-end розробник,/jobs/5425571/,"Інформаційно-обчислювальний центр Міністерства соц. політики України, ДП","['Java', 'JS', 'GIT', 'API']",As interview result,,2
+2023-12-21,WordPress Custom Website Developer,/jobs/5463191/,BlueFlower Media,"['Java', 'English', 'HTML', 'CSS', 'WEB']","[15000, 20000]",17500.0,2
+2024-01-09,SW developer,/jobs/4396299/,Костал Україна,"['English', 'GIT']",Unknown,,1
+2023-12-28,"Викладач з робототехніки, розробник учбових курсів для дітей",/jobs/5052392/,Перший клуб робототехніки,[],As interview result,,2
+2023-12-17,Senior WordPress developer,/jobs/5091275/,Imado,"['PHP', 'Java', 'English', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[45000, 80000]",62500.0,5
+2024-01-09,Програміст 1C,/jobs/5192004/,"Венбест, ТОВ","['SQL', '1С', 'WEB', 'API']",As interview result,,2
+2023-12-11,Програміст 1C,/jobs/4022100/,ModulSoft,"['1С', 'API']","[25000, 40000]",32500.0,1
+2024-01-08,Програміст відділу підтримки користувачів,/jobs/5148560/,Банк Південний,[],Unknown,,1
+2023-12-19,Програміст 1C,/jobs/5275280/,Антенор,['1С'],As interview result,,5
+2024-01-09,IOS-програміст,/jobs/5480333/,Noname Digital,[],"[35000, 100000]",67500.0,1
+2024-01-08,Програміст зі знанням 1C (рітейл),/jobs/5428206/,Експрес Маркет box,['1С'],Unknown,,2
+2024-01-09,Програміст 1С,/jobs/5086315/,Столична Ювелірна Фабрика,['1С'],Unknown,,2
+2023-12-14,"Програміст (PHP, Python) зі знанням англійської",/jobs/5455924/,Sitesecurity,"['PHP', 'Python']","[11000, 32000]",21500.0,0
+2024-01-01,"Інженер-програміст (Business Intelligence, BI)",/jobs/5318843/,Universal Bank,['SQL'],As interview result,,1
+2024-01-09,Java-розробник (Middle),/jobs/5343462/,ProxyBand,"['Java', 'Docker', 'GIT', 'API']","[60000, 120000]",90000.0,1
+2024-01-08,"Intern JavaScript Developer (TypeScript, React, Node. js, стажер)",/jobs/5477670/,SysGears,"['Java', 'JS', 'English']",Unknown,,0
+,Провідний програміст 1С,/jobs/3998091/,bodo,"['SQL', '1С', 'WEB', 'API']","[100000, 120000]",110000.0,5
+2024-01-10,PHP developer,/jobs/5423235/,Bulls-media,"['PHP', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB']",Unknown,,2
+2024-01-08,"Программист PHP (Yii 2.0, Middle)",/jobs/4798916/,Global Logistics,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'API', 'Redis']","[40000, 70000]",55000.0,2
+2023-12-11,Web-разработчик,/jobs/5451710/,Adlab OÜ,"['PHP', 'Java']",As interview result,,2
+2024-01-09,Провідний програміст баз даних,/jobs/5179618/,"Новаагро Україна, ТОВ","['SQL', '1С']",Unknown,,2
+2024-01-08,Програміст 1С,/jobs/3764239/,"Сoffeeok, e-commerce company","['1С', 'API']",[70000],70000.0,2
+2024-01-10,Програміст 1C,/jobs/4734097/,"Широков В.Ю., ФЛП",['1С'],"[20000, 45000]",32500.0,1
+2023-12-20,Програміст з розробки мобільних додатків,/jobs/5449564/,"Вінницяобленерго, АТ","['Java', 'API']","[15000, 25000]",20000.0,0
+2024-01-10,Програміст 1C,/jobs/5417706/,"АЛБО, ГК",['1С'],Unknown,,2
+2024-01-04,Програміст 1С,/jobs/5355025/,Brain,['1С'],Unknown,,1
+2023-12-12,Middle Python Developer,/jobs/5453087/,MGID Inc.,"['Python', 'SQL', 'API', 'CI/CD']",Unknown,,2
+2024-01-10,WordPress developer,/jobs/4732719/,DL Agency,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT', 'API']","[30000, 50000]",40000.0,2
+2024-01-10,Junior Developer,/jobs/5482445/,"Гореліков О.О., ФОП","['SQL', 'HTML']",Unknown,,0
+2024-01-10,BI Developer,/jobs/5423230/,Bulls-media,"['Python', 'SQL', 'English', 'API']",Unknown,,2
+2023-12-18,"Java 11+ Developer (Spring, JUnit, Docker, English B2+)",/jobs/5458795/,S. Project,"['Java', 'SQL', 'Docker', 'English', 'GIT']",Unknown,,2
+2023-12-26,Программист 1C,/jobs/5466103/,"Аншар Груп, ТОВ (меблева фабрика)",['1С'],As interview result,,2
+2024-01-10,Symfony developer (Middle/Senior),/jobs/5482746/,OGD Solutions,"['PHP', 'SQL', 'Docker', 'English', 'GIT']","[70000, 110000]",90000.0,2
+2024-01-01,"Technical co-founder, Tech lead, Developer for a startup",/jobs/5122358/,BitSlap.it,['GIT'],As interview result,,5
+2024-01-08,Business Developer Manager,/jobs/5117598/,Tickets Consolidator,[],As interview result,,1
+2024-01-05,Провідний програміст 1С,/jobs/5428997/,"Інтерстарч Україна, ТОВ","['SQL', '1С']",Unknown,,5
+2024-01-04,Розробник 1C,/jobs/5454873/,RedHead Family Corporation,"['GIT', '1С', 'WEB', 'API']",Unknown,,2
+2024-01-09,Програміст BAS,/jobs/4305533/,Імпульс-ІВЦ,['1С'],"[25000, 30000]",27500.0,1
+2024-01-05,Програміст 1С,/jobs/4934205/,"Діоніс, торгівельна компанія","['JS', '1С', 'API']",[60000],60000.0,2
+2023-12-11,Middle PHP developer (Laravel),/jobs/4022359/,Domino-IT,"['PHP', 'JS', 'SQL', 'HTML', 'CSS']","[60000, 90000]",75000.0,2
+2024-01-08,CPQ Salesforce Developer (middle),/jobs/5477747/,Peeklogic,['English'],Unknown,,2
+2024-01-09,"Back-end Developer (PHP, Laravel)",/jobs/5437082/,Abz.agency®,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'API', 'NodeJS', 'Redis']","[30000, 55000]",42500.0,1
+2024-01-10,"PHP, HTML Developer",/jobs/5247247/,InfoLine,"['PHP', 'JS', 'HTML', 'CSS', 'API']",[30000],30000.0,1
+2024-01-09,Розробник SAP ABAP,/jobs/5452620/,"Дарниця, фармацевтична компанія","['SQL', 'API']",Unknown,,2
+2024-01-02,Middle C# Unity Developer (GameDev),/jobs/2930698/,4Enjoy Games,['GIT'],As interview result,,1
+2023-12-27,Програміст PHP,/jobs/5466691/,Danavero,"['PHP', 'SQL', 'English', 'GIT', 'API', 'CI/CD']",Unknown,,5
+2024-01-09,Програміст 1C,/jobs/5460095/,Метінвест,"['GIT', '1С']",Unknown,,2
+2024-01-08,Програміст 1C (BAF),/jobs/5131273/,Big Shop,['1С'],"[30000, 45000]",37500.0,1
+2024-01-05,Програміст 1С7,/jobs/5476261/,"Пачковська І., приватна особа",['1С'],"[30000, 50000]",40000.0,2
+2024-01-05,Программист-наладчик станков ЧПУ,/jobs/5453833/,"Технокластер, ООО",[],"[30000, 40000]",35000.0,5
+2024-01-09,WordPress developer,/jobs/5480016/,Rise UP,"['PHP', 'SQL', 'HTML', 'CSS', 'GIT']","[23000, 30000]",26500.0,2
+2024-01-08,Senior Node.js-розробник,/jobs/5478601/,Axon Development Group,"['Java', 'JS', 'SQL', 'GIT', 'API', 'Redis']","[153000, 210000]",181500.0,5
+2024-01-05,Програміст баз даних,/jobs/5475601/,"Черкаська міська інфекційна лікарня, КНП",[],"[12000, 15000]",13500.0,1
+2023-12-18,Android Developer,/jobs/5457838/,Ronis,"['Java', 'GIT', 'API']",Unknown,,2
+2024-01-08,Розробник MS-SQL (DWH/ETL),/jobs/5429823/,"Діла, медична лабораторія","['SQL', 'ETL']",Unknown,,2
+2024-01-10,Програміст 1С (BAS),/jobs/5258650/,RunIT,[],"[30000, 50000]",40000.0,5
+2024-01-05,Full-Stack Developer (.Net),/jobs/5256462/,АТБ-маркет,"['SQL', 'Docker', 'C#', 'GIT', 'WEB']",Unknown,,2
+2024-01-05,Програміст 1С,/jobs/5445242/,"Вовк Груп, ТОВ",['1С'],Unknown,,2
+2024-01-08,Python Developer (Computer Vision),/jobs/5349371/,"Фора, ТОВ","['Python', 'SQL']",Unknown,,1
+2024-01-05,Junior React Developer,/jobs/5475440/,Push,"['Java', 'HTML', 'CSS', 'GIT']","[30000, 50000]",40000.0,2
+2024-01-09,Програміст 1C (Axapta),/jobs/5465561/,"В.М., група компаній","['SQL', '1С']",Unknown,,1
+2024-01-04,Хімік-розробник миючих засобів,/jobs/5474244/,"Сітако, ТОВ",[],"[20000, 25000]",22500.0,2
+2023-12-19,Full Stack Developer (Yii2),/jobs/5044635/,EasyXpress.com.ua,"['PHP', 'Java', 'JS', 'SQL', 'GIT', 'API']","[40000, 80000]",60000.0,2
+2024-01-05,Програміст 1С,/jobs/3826544/,"Дячук І.Я., ФОП",[],"[20000, 40000]",30000.0,2
+2024-01-02,Senior Full Stack C#/.NET Developer,/jobs/5464703/,MDO,"['Java', 'JS', 'SQL', 'C#', 'English', 'CSS', 'WEB']",Unknown,,5
+2023-12-19,Розробник BAS у IT-компанію,/jobs/5459297/,Dita Group,"['SQL', 'GIT', 'API']","[60000, 100000]",80000.0,2
+2024-01-04,Програміст 1C,/jobs/5474372/,"Вдовенко Т. В., ФОП",['1С'],As interview result,,2
+2024-01-09,SQL Developer,/jobs/5480539/,Банк Восток,['SQL'],Unknown,,2
+2024-01-05,"Інженер-програміст (GoldenGate, RabbitMQ, ELK)",/jobs/5171646/,Universal Bank,"['SQL', 'Redis']",As interview result,,1
+2024-01-09,PHP Developer,/jobs/5465885/,Netpeak Group,"['PHP', 'SQL', 'Docker', 'WEB']",Unknown,,2
+2023-12-11,Інженер-програміст у Южне,/jobs/5450431/,"Південний, МТП, ДП",['SQL'],Unknown,,2
+2023-12-18,"Unity, С# Developer",/jobs/4927151/,BG Games,"['C#', 'GIT']","[20000, 32000]",26000.0,1
+2024-01-10,Senior Backend Node.js Developer,/jobs/5482664/,AnyforSoft,"['JS', 'SQL', 'ETL', 'English', 'GIT', 'WEB', 'API', 'NodeJS']",Unknown,,5
+2023-12-27,Junior Python Developer,/jobs/5466723/,Solidway,['Python'],As interview result,,0
+2024-01-04,Програміст С/C++ (Linux),/jobs/5473518/,"Лаврів О.І., ФОП","['Python', 'C++', 'GIT']","[80000, 160000]",120000.0,5
+2023-12-11,Full Stack Developer (WordPress),/jobs/5450349/,Ambiweb.co,"['PHP', 'Java', 'English', 'HTML', 'CSS', 'WEB']",Unknown,,1
+2023-12-27,Системний програміст,/jobs/5410457/,Сєвєродонецький міський центр зайнятості (відділ рекрутингу),[],[40000],40000.0,2
+2023-12-21,WordPress developer,/jobs/5462090/,Hennessey Group,"['PHP', 'Java', 'JS', 'HTML', 'CSS', 'GIT']","[45000, 55000]",50000.0,2
+2023-12-11,PHP Developer,/jobs/5450149/,"Аплікейшн Клауд, ТОВ","['PHP', 'Java', 'SQL', 'Docker', 'English', 'HTML', 'CSS', 'GIT']","[73000, 85000]",79000.0,5
+2023-12-12,Python-программист,/jobs/5452246/,Onlihub,"['Python', 'SQL', 'Docker', 'Pandas', 'FastAPI', 'GIT', 'API', 'Redis']","[50000, 80000]",65000.0,2
+2023-12-22,WordPress Developer,/jobs/5463848/,Tactica ehf,"['Java', 'English', 'HTML', 'CSS']","[45000, 80000]",62500.0,2
+2023-12-26,Программист 1С,/jobs/4358049/,"Автоцентр на Столичном, филиал (УкрАвто, корпорация)",['1С'],Unknown,,1
+2024-01-09,Програміст 1C,/jobs/4054783/,Мета,['1С'],Unknown,,2
+2024-01-09,Full Stack Web Developer,/jobs/5479215/,"Індустрія, ТК","['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'API']","[12000, 32000]",22000.0,1
+2024-01-09,Програміст 1C,/jobs/5452729/,Благо,['1С'],As interview result,,1
+2023-12-12,C# web API developer,/jobs/5452946/,Tracklease,"['Java', 'SQL', 'C#', 'HTML', 'CSS', 'WEB', 'API']",[35000],35000.0,5
+2024-01-09,"Інженер-програміст, електроник (PLC, SCADA)",/jobs/4828180/,Trigla,[],"[20000, 45000]",32500.0,1
+2023-12-11,"Технолог-програміст ЧПК (металообробка, фрезеровка, токарка)",/jobs/5156403/,"Грамм, ТОВ",[],"[30000, 40000]",35000.0,5
+2024-01-08,Програміст PL/SQL Oracle,/jobs/4731086/,Український процесінговий центр,['SQL'],Unknown,,2
+2023-12-14,SQL-програміст,/jobs/4994640/,"Кліринговий Дім, АБ",['SQL'],"[30000, 37000]",33500.0,2
+2023-12-13,Bitrix developer,/jobs/4495520/,"Dzencode, IT-Company","['PHP', 'Java', 'Python', '1С', 'WEB', 'API']","[16500, 40500]",28500.0,1
+2023-12-16,Програміст (стажер),/jobs/5457245/,Вінницька ІТ-Академія,[],Unknown,,0
+2024-01-09,Програміст 1C,/jobs/5137341/,"Ольвія, корпорація","['SQL', '1С']",Unknown,,2
+2023-12-11,Symfony Developer,/jobs/5451448/,Ronis,"['PHP', 'Java', 'SQL', 'Docker', 'GIT', 'Redis']",Unknown,,1
+2023-12-27,Webflow Developer,/jobs/5466532/,Gapsy Studio,"['WEB', 'API', 'SEO']","[28000, 40000]",34000.0,1
+2024-01-02,"Strong Junior, Middle PHP developer",/jobs/4539891/,StarDesignz,"['PHP', 'Java', 'HTML', 'CSS', 'GIT', 'WEB']","[20000, 60000]",40000.0,2
+2024-01-09,Senior C++ Developer,/jobs/5470384/,Home Games,['Python'],Unknown,,2
+2023-12-20,"Программист микроконтроллеров STM STM32 ""H7"" (STM32H723ZE)",/jobs/5462054/,Лазер-Оптика,[],Unknown,,1
+2024-01-04,AI Developer (Construction & Business Operations),/jobs/5324254/,Piche Ltd,"['Java', 'Python', 'C#']","[120000, 160000]",140000.0,5
+2024-01-10,Програміст 1C,/jobs/3373409/,"БізнесХолдинг, торгово-виробнича група компаній","['SQL', '1С', 'API']",Unknown,,5
+2023-12-26,Symfony developer,/jobs/5465359/,WEB4PRO,"['PHP', 'Java', 'HTML', 'CSS', 'GIT']",Unknown,,2
+2024-01-02,"Senior Full-Stack Developer (Node.js, React.js)",/jobs/5470350/,ZFORT Group,"['JS', 'SQL', 'English', 'Redis']",Unknown,,5
+2023-12-29,Программист 1C,/jobs/4244992/,Бізнес-Інтрист,"['1С', 'WEB', 'API']",As interview result,,2
+2023-12-21,Web-програміст,/jobs/4311535/,TBT Ukraine,"['PHP', 'Java', 'SQL', 'HTML', 'CSS']","[25000, 50000]",37500.0,2
+2024-01-09,Інженер-програміст,/jobs/5452208/,"Асканія, група компаній",[],Unknown,,2
+2024-01-04,Junior Unity game developer,/jobs/4805918/,24Play,['C#'],Unknown,,0
+2024-01-09,Frontend (Vue. js) developer,/jobs/5480643/,Giraffe Software,['JS'],Unknown,,2
+2024-01-10,Програміст 1C,/jobs/5453385/,AVA Group,"['SQL', '1С']",As interview result,,2
+2024-01-05,﻿Flutter Developer,/jobs/5475144/,Аccord consulting,"['PHP', 'Java', 'HTML', 'CSS', 'GIT', 'API']",Unknown,,0
+2024-01-06,Full-Stack Developer (.Net),/jobs/5116242/,АТБ-маркет,"['SQL', 'Docker', 'C#', 'GIT', 'WEB']",Unknown,,2
+2024-01-04,"Python Developer, Mentor",/jobs/5301777/,FoxmindEd,"['Java', 'Python', 'SQL', 'Docker', 'HTML', 'Django', 'Flask', 'CSS', 'GIT']",As interview result,,2
+2024-01-10,FPGA developer,/jobs/5132352/,Ozzylogik LTD,['Python'],Unknown,,2
+2023-12-11,Senior Web Developer,/jobs/5451159/,Gamanet a. s.,"['Java', 'HTML', 'CSS', 'WEB']","[80000, 150000]",115000.0,2
+2024-01-10,Інженер-програміст АСУ,/jobs/5327004/,Розумна Інтралогістика,[],Unknown,,2
+2023-12-30,Розробник (Shopify),/jobs/5469315/,Kadun Inc,"['Java', 'HTML', 'CSS']",Unknown,,0
+2024-01-10,Програміст 1С у Львів,/jobs/5390781/,"Подорожник, мережа аптек","['SQL', '1С']",Unknown,,5
+2024-01-09,"Інженер електроніки, програміст мікроконтролерів",/jobs/4903162/,"Импульс, СНПО, ЧАО","['C++', 'GIT']",Unknown,,2
+2023-12-18,"Full-stack React, PHP Developer",/jobs/5458778/,Merehead,"['PHP', 'Java', 'JS', 'SQL', 'Docker', 'English', 'GIT', 'WEB']","[37000, 50000]",43500.0,2
+2023-12-18,Node. js розробник,/jobs/5421482/,CyBridge Technologies,"['Java', 'JS', 'Python', 'SQL', 'C++', 'GIT', 'API', 'CI/CD', 'Redis']",Unknown,,2
+2023-12-22,Senior Python Developer,/jobs/5464012/,VOL company,"['Java', 'Python', 'SQL', 'HTML', 'Django', 'CSS', 'FastAPI', 'API']","[24000, 30000]",27000.0,5
+2023-12-26,Програміст 1C,/jobs/5465483/,"Денди-Логистик, ООО",['1С'],Unknown,,2
+2024-01-05,Senior Full Stack developer,/jobs/5425562/,"Інформаційно-обчислювальний центр Міністерства соц. політики України, ДП","['Java', 'SQL', 'HTML', 'CSS', 'GIT']",As interview result,,2
+2024-01-10,"Інженер, програміст АСУТП",/jobs/5467152/,Капелоу,[],Unknown,,2
+2023-12-27,"Strong Middle, Senior PHP developer",/jobs/5286089/,Meta-technology,['PHP'],Unknown,,2
+2024-01-02,Програміст 1C,/jobs/5252323/,"Інфотех, СТ",[],"[20000, 25000]",22500.0,2
+2023-12-15,Junior Rust Systems Developer,/jobs/4709016/,Out of the Box Systems,"['Java', 'JS', 'GIT']",[37000],37000.0,0
+2024-01-02,"Програміст 1С 8, BAS",/jobs/2092164/,"Енсіті, ТОВ",['1С'],[45000],45000.0,2
+2024-01-10,Програміст-електронщик (embedder),/jobs/888696/,АС Привод,['C#'],"[20000, 35000]",27500.0,2
+2023-12-18,"Інженер-електронник, програміст (PLC)",/jobs/5065797/,"Універсальні інженерні рішення, ТзОВ",[],[35000],35000.0,1
+2024-01-09,C/C++ Embedded developer (STM32),/jobs/5467236/,ВМС ЗС України,[],"[21000, 81000]",51000.0,1
+2023-12-11,Front-end розробник (Next.js),/jobs/5175482/,Bozhenko team,"['Java', 'JS', 'HTML', 'CSS', 'GIT']","[30000, 55000]",42500.0,2
+2024-01-04,Технік-програміст,/jobs/5474179/,"Глобино, ГК",[],As interview result,,2
+2023-12-27,WordPress Full-Stack розробник,/jobs/5466793/,Markupus,"['JS', 'SQL', 'English', 'HTML', 'CSS', 'WEB', 'API']",Unknown,,2
+2023-12-27,Програміст верстатів з ЧПК HAAS,/jobs/5173712/,"Авто Прагма, ООО",[],"[22000, 30000]",26000.0,1
+2024-01-08,"Спеціаліст з розробки та впровадження керуючих програм, програміст верстатів ЧПК",/jobs/5150104/,DTEK,[],Unknown,,1
+2023-12-26,Програміст BAF (1C) ﻿,/jobs/5414085/,HR Team,"['SQL', '1С']","[40000, 80000]",60000.0,1
+2024-01-08,Розробник вбудованих систем,/jobs/5478670/,Data Science UA,"['Python', 'C++']",Unknown,,1
+2024-01-10,PHP Developer (Yii2),/jobs/5397140/,Qualium Systems,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT']",Unknown,,2
+2024-01-08,"Backend, full-stack developer",/jobs/5389828/,Sales.Support,"['PHP', 'Java', 'SQL', 'Ruby', 'GIT', 'WEB', 'API']","[36000, 90000]",63000.0,2
+2024-01-02,"Laravel, Vue.js developer",/jobs/5447545/,Arvo Software Ltd.,"['PHP', 'JS', 'SQL', 'English', 'CI/CD']",Unknown,,2
+2023-12-20,"Радіоінженер, радіотехнік, розробник ВЧ-трактів",/jobs/5353568/,"Гранд Технолоджис, ООО",[],As interview result,,1
+2024-01-02,"Викладач інформатики, робототехніки Phyton, Developer",/jobs/5470481/,"Богатирьов О.Г., ФОП",['WEB'],"[9000, 11000]",10000.0,0
+2024-01-09,Front-end Web developer,/jobs/4080822/,PNN Soft,"['Java', 'English', 'HTML', 'CSS', 'GIT', 'WEB']",Unknown,,1
+2024-01-09,Senior WordPress Developer,/jobs/5453090/,617 Web Marketing,"['PHP', 'Java', 'JS', 'HTML', 'CSS', 'GIT', 'WEB', 'API']","[75000, 100000]",87500.0,5
+2023-12-13,Розробник екологічної документації,/jobs/4081773/,Центр Екології та Розвитку Нових Технологій (ЦЕРН),[],Unknown,,1
+2023-12-21,"PHP, Wordpress developer",/jobs/5462520/,Digis,"['PHP', 'HTML']",Unknown,,2
+2023-12-12,Opencart developer,/jobs/5453121/,Maxopen,"['PHP', 'Java', 'SQL']",[30000],30000.0,2
+2023-12-19,"Middle Developer (PHP, JS, Java, C/C++, C#, Ruby, Python)",/jobs/5350335/,LuckyWare Pro,"['PHP', 'Java', 'JS', 'Python', 'C++', 'Ruby', 'C#']",Unknown,,2
+2024-01-09,Node.js-розробник,/jobs/5459929/,Finsfera,"['Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT']",Unknown,,2
+2024-01-05,Unity 3D developer,/jobs/5378337/,EvoPlay,"['Java', 'C#']",Unknown,,1
+2024-01-05,"Junior, Middle Python developer in test",/jobs/5456219/,Ajax Systems,"['Python', 'GIT', 'API']",Unknown,,1
+2023-12-16,Front-end Developer,/jobs/5457402/,Navi.agency,"['Java', 'JS', 'HTML', 'CSS']",Unknown,,2
+2024-01-10,Shopify developer (Middle/Senior),/jobs/5482783/,OGD Solutions,"['Java', 'GIT']","[70000, 110000]",90000.0,2
+2024-01-10,Програміст 1C,/jobs/5164752/,Бізнес Груп,['1С'],Unknown,,2
+2024-01-04,Strong Junior PHP Developer,/jobs/5455454/,WebbyLab,"['PHP', 'Java', 'JS', 'SQL', 'English', 'HTML', 'CSS', 'GIT', 'WEB']",Unknown,,1
+2024-01-04,Android developer,/jobs/5473661/,Cadence Development,"['Java', 'GIT']",Unknown,,2
+2024-01-08,Інженер-програміст верстатів ЧПК,/jobs/5464725/,Sherp,[],"[45000, 55000]",50000.0,2
+2023-12-12,Full Stack JS Developer for AI Tech (Backend-oriented),/jobs/5452904/,Mindframe,"['Java', 'JS', 'SQL', 'English', 'GIT', 'WEB', 'API']","[44000, 74000]",59000.0,2
+2024-01-02,Senior Frontend Developer (Angular),/jobs/5368136/,Launch & Scale,"['English', 'API']","[60000, 80000]",70000.0,5
+,Програміст 1C,/jobs/5425095/,Element-Україна,"['1С', 'WEB', 'API']",Unknown,,5
+2024-01-10,"Програміст мікроконтролерів, Embeded Developer",/jobs/4882891/,Ajax Systems,['GIT'],Unknown,,5
+2024-01-07,Strong Junior/Middle Java Developer,/jobs/5476860/,IncoreSoft,"['Java', 'SQL', 'API']",Unknown,,1
+2024-01-10,.Net-developer (Middle/Senior),/jobs/5482843/,OGD Solutions,"['SQL', 'English', 'WEB']","[70000, 110000]",90000.0,2
+2024-01-04,"Full stack developer (PHP, laravel)",/jobs/3714918/,Doroshenko agency,"['PHP', 'Java', 'SQL', 'HTML', 'GIT', 'API']","[20000, 40000]",30000.0,1
+2024-01-10,Інженер-розробник (електроніка),/jobs/4020823/,"VD MAIS, науково-виробнича фірма, ПП",[],Unknown,,2
+2024-01-09,"Back-end, Full-Stack розробник (Node.js)",/jobs/4833091/,All-in agency,"['JS', 'SQL', 'API']","[60000, 120000]",90000.0,2
+2024-01-08,"Програміст (BAS, ERP)",/jobs/3827516/,Dnipro-M,['1С'],As interview result,,2
+2023-12-11,Oracle-програміст,/jobs/5154044/,Тенет,"['JS', 'SQL']",Unknown,,0
+2024-01-03,Unity developer,/jobs/5422749/,"Avataris, GmbH","['Java', 'C++', 'C#', 'English', 'API']",As interview result,,2
+2024-01-10,"Сервіс-інженер, молодший програміст BAS",/jobs/5366100/,EBS,['1С'],Unknown,,1
+2024-01-04,Unity Mobile Developer,/jobs/5353770/,Coidea Agency,"['JS', 'C#', 'English', 'GIT']","[30000, 55000]",42500.0,1
+2024-01-04,C++/Qt Widgets developer,/jobs/5076036/,Ozzylogik LTD,"['SQL', 'C++']",Unknown,,5
+2024-01-09,Junior ERP Developer,/jobs/5394330/,Clarity,[],Unknown,,2
+2023-12-21,"Инженер-радиотехник, электронщик, разработчик радиоэлектронного оборудования",/jobs/5462676/,Copra,[],As interview result,,1
+2023-12-15,"JS-Developer (Vue.JS, Node.JS)",/jobs/5409599/,Redoo Ukraine,"['Java', 'JS', 'SQL', 'C#', 'English', 'HTML', 'GIT', 'WEB', 'NodeJS']","[40000, 60000]",50000.0,2
+2024-01-05,Middle Java Developer,/jobs/4954671/,Український процесінговий центр,"['Java', 'SQL', 'GIT', 'WEB', 'API']",Unknown,,2
+2023-12-25,PHP Laravel Developer,/jobs/5259694/,"WOP lab, LLC","['PHP', 'JS', 'SQL', 'Docker', 'HTML', 'CSS', 'GIT', 'WEB', 'API']",Unknown,,2
+2023-12-11,Laravel-розробник,/jobs/5410709/,Maxopen,"['PHP', 'SQL', 'GIT', 'API']","[25000, 40000]",32500.0,1
+2023-12-25,Drupal developer (стажер),/jobs/4842934/,DevBranch,['PHP'],[4500],4500.0,0
+2023-12-13,Програміст 1C,/jobs/4507249/,SolidBrain,['1С'],As interview result,,2
+2024-01-08,Swift developer,/jobs/4790235/,Solid Solutions,"['PHP', 'SQL', 'GIT', 'WEB']",Unknown,,1
+2023-12-18,Розробник Opencart,/jobs/5457995/,Uax,"['PHP', 'Java', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'SEO']","[20000, 40000]",30000.0,5
+2024-01-05,PHP Junior Full-Stack Developer,/jobs/5475312/,Lambda-dev,"['PHP', 'JS', 'SQL', 'Docker', 'English', 'CSS', 'WEB', 'API']","[26000, 38000]",32000.0,1
+2023-12-20,Middle Front-end Developer,/jobs/4656420/,Struktura,"['Java', 'JS', 'English', 'HTML', 'CSS', 'GIT', 'WEB']","[36600, 73200]",54900.0,2
+2024-01-05,"Інженер-програміст, електронник у Київ",/jobs/5468534/,"Табако Дім, ТОВ",[],"[90000, 150000]",120000.0,2
+2024-01-09,Інженер-програміст,/jobs/5027514/,"МХП, ПрАТ","['C++', 'WEB']",[40000],40000.0,5
+2024-01-09,Програміст 1C (версія 7.7),/jobs/5164929/,"Пульс, мережа аптек","['SQL', '1С', 'Redis']",As interview result,,1
+2024-01-08,Senior Full Stack PHP Developer (Wordpress),/jobs/5364722/,Growica,"['PHP', 'Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'WEB', 'SEO', 'NodeJS']",Unknown,,2
+2024-01-09,Технолог-розробник у відділ R&D,/jobs/4716685/,"Технологія Трейд, ТД, ТОВ",[],Unknown,,2
+2024-01-10,Програміст BAF/1С,/jobs/3280046/,"Комплексне управління бізнес-процесами, ТОВ","['SQL', '1С', 'WEB']","[25000, 75000]",50000.0,2
+2023-12-20,Middle PHP Developer (Laravel),/jobs/5461621/,"Ідейл, ТОВ","['PHP', 'Java', 'JS', 'API']",Unknown,,2
+2024-01-05,Sr. iOS Mobile Developer,/jobs/5063504/,Workforce Source,"['English', 'API']",Unknown,,5
+2023-12-28,Junior Angular Developer,/jobs/5468401/,ITOP1000,"['Java', 'HTML', 'CSS']",Unknown,,1
+2024-01-08,Програміст 1C,/jobs/5342699/,"Компанія Інтер-Ліс, ТОВ","['JS', '1С', 'WEB']",As interview result,,2
+2024-01-05,Frontend Magento Developer,/jobs/4064566/,SaM Solutions,"['Java', 'JS', 'HTML', 'CSS', 'GIT', 'Redis']",Unknown,,1
+2023-12-20,Інженер технолог-програміст ЧПК,/jobs/5202166/,Meer industrial group,[],"[20000, 28000]",24000.0,5
+2024-01-04,Power BI developer,/jobs/5349392/,"Фора, ТОВ","['JS', 'SQL', 'ETL', 'GIT', 'WEB']",Unknown,,1
+2024-01-05,"﻿Web Developer (BackEnd, WordPress)",/jobs/5468752/,Rome Tech Cases,"['PHP', 'JS', 'SQL', 'HTML', 'CSS', 'WEB', 'API']",[40000],40000.0,2
+2023-12-21,Laravel Backend Developer,/jobs/4550699/,Mine Finance Group,"['PHP', 'JS', 'SQL', 'API', 'Redis']","[75000, 115000]",95000.0,2
+2023-12-27,Middle SharePoint Online Developer,/jobs/5066497/,Taurus Quadra LTD,"['English', 'API']","[35000, 80000]",57500.0,2
+2024-01-08,Програміст 1C,/jobs/4902236/,AC-Step,['1С'],As interview result,,2
+2024-01-03,Senior Front-End UI/UX Developer,/jobs/5471295/,MDO,"['Java', 'English', 'CSS', 'WEB']",Unknown,,5
+2023-12-14,"Системний адміністратор, програміст, бібліотекар",/jobs/4489910/,Рівненська обласна бібліотека для молоді,['SQL'],"[6000, 7000]",6500.0,1
+2024-01-10,IOS-розробник,/jobs/5461171/,"Кліринговий Дім, АБ","['SQL', 'GIT', 'API', 'CI/CD']",Unknown,,2
+2024-01-05,"RF-інженер, розробник антен",/jobs/5218543/,Ajax Systems,[],Unknown,,2
+2023-12-18,Розробник екологічної документації (робота із системою МЗВ﻿),/jobs/4081757/,Центр Екології та Розвитку Нових Технологій (ЦЕРН),[],Unknown,,1
+2024-01-05,Node.js Backend Developer,/jobs/5252987/,Air Labs,"['Java', 'JS', 'SQL', 'HTML', 'CSS', 'GIT', 'API', 'NodeJS', 'Redis']","[30000, 55000]",42500.0,2
+2023-12-13,"PHP-разработчик, программист",/jobs/5284332/,Dr.Weedy,"['PHP', 'SQL']","[50000, 110000]",80000.0,5
+2023-12-20,Інженер-програміст,/jobs/5387539/,"Вінницяобленерго, АТ",[],"[15000, 25000]",20000.0,1
+2023-12-28,Wireless DSP/Embedded Software Developer,/jobs/5468355/,Delhaze LTD,"['C++', 'English', 'GIT']","[160000, 250000]",205000.0,2
+2023-12-11,Middle PHP Developer (Symfony),/jobs/5451564/,Innovation Group,"['PHP', 'SQL']",Unknown,,2
+2024-01-09,Програміст 1C,/jobs/5417098/,Master Service,"['SQL', '1С']",Unknown,,1
+2024-01-05,Програміст-розробник 1С,/jobs/5255393/,"Вітмарк-Україна, СП, ТОВ",['1С'],As interview result,,2
